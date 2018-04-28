@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: f0b65d8342e4d066e627a47d1808d9300fedc4de4b5d2bdc13ef19e9577187f9
+-- hash: 314f91732f4c486bb497fdd533515588610d191d253abe1d47f48e36d3fa242f
 
 name:           capi-client
 version:        0.1.0.0
@@ -80,7 +80,8 @@ test-suite capi-client-test
   default-extensions: DeriveGeneric OverloadedStrings
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
   build-depends:
-      aeson
+      QuickCheck
+    , aeson
     , base >=4.7 && <5
     , capi-client
     , text
