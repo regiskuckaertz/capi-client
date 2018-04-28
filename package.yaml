@@ -27,6 +27,7 @@ dependencies:
 
 default-extensions:
 - DeriveGeneric
+- OverloadedStrings
 
 library:
   source-dirs: src
