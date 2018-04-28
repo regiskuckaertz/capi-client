@@ -23,6 +23,10 @@ dependencies:
 - base >= 4.7 && < 5
 - aeson
 - scientific
+- text
+
+default-extensions:
+- DeriveGeneric
 
 library:
   source-dirs: src
