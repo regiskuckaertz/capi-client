@@ -26,9 +26,7 @@ module Data.Capi.Types
   , module Data.Capi.Types.Storyquestions
   , module Data.Capi.Types.Timeline
   , module Data.Capi.Types.Commonsdivision
-  , ContentAtomID
-  , DateTime
-  , OpaqueJson
+  , module Data.Capi.Types.Shared
   ) where
 
 import Data.Capi.Types.Atom
@@ -58,8 +56,4 @@ import Data.Capi.Types.Recipe
 import Data.Capi.Types.Storyquestions
 import Data.Capi.Types.Timeline
 import Data.Capi.Types.Commonsdivision
-import Data.Int(Int64)
-
-type ContentAtomID = String
-type DateTime = Int64
-type OpaqueJson = String
+import Data.Capi.Types.Shared
