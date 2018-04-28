@@ -2,31 +2,31 @@ module Data.Capi.Types.Commonsdivision where
 
 import GHC.Generics
 import Data.Aeson
-import Data.Capi.Types.Shared(DateTime)
+import Data.Capi.Types.Shared
 import Data.Text
 
-data MP = MP { _name :: String, _party :: String }
+data MP = MP { _mpName :: String, _mpParty :: String }
   deriving (Show, Eq, Ord, Generic)
 
 instance FromJSON MP
-instance ToJSON MP
+instance ToJSON MP where
+  toEncoding = genericToEncoding capiOptions
 
-data Votes = Votes { _ayes :: [MP], _noes :: [MP] }
+data Votes = Votes { _vAyes :: [MP], _vNoes :: [MP] }
   deriving (Show, Eq, Ord, Generic)
 
 instance FromJSON Votes
-instance ToJSON Votes
+instance ToJSON Votes where
+  toEncoding = genericToEncoding capiOptions
 
 data CommonsDivision = 
-  CommonsDivision { _parliamentId :: Text
-                  , _description :: Maybe Text
-                  , _date :: DateTime
-                  , _votes :: Votes
+  CommonsDivision { _cdParliamentId :: Text
+                  , _cdDescription :: Maybe Text
+                  , _cdDate :: DateTime
+                  , _cdVotes :: Votes
                   }
   deriving (Show, Eq, Ord)
 
-instance ToJSON CommonsDivision where
-  toJSON cd = _
-
-instance FromJSON CommonsDivision where
-  parseJSON = _
+-- | TODO
+-- | - write JSON encoder
+-- | - write JSON decoder

@@ -8,6 +8,7 @@ module Data.Capi.Types.Explainer
 
 import GHC.Generics
 import Data.Aeson
+import Data.Capi.Types.Shared
 import Data.Text
 
 newtype DisplayType = DT Int deriving (Show, Eq, Ord)
@@ -40,5 +41,12 @@ data ExplainerAtom =
                 }
   deriving (Show, Eq, Ord, Generic)
 
-instance FromJSON ExplainerAtom
-instance ToJSON ExplainerAtom
+instance FromJSON ExplainerAtom where
+  parseJSON = withObject "ExplainerAtom" $ \v ->
+    ExplainerAtom <$> v .: "title"
+                  <*> v .: "body"
+                  <*> v .: "displayType"
+                  <*> v .:? "tags"
+
+instance ToJSON ExplainerAtom where
+  toEncoding = genericToEncoding capiOptions
