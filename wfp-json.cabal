@@ -1,0 +1,92 @@
+-- This file has been generated from package.yaml by hpack version 0.20.0.
+--
+-- see: https://github.com/sol/hpack
+--
+-- hash: 5e1b303b128e9ee31ba1703dd09a152138822050bce2e7cef69d4011ac2ace22
+
+name:           wfp-json
+version:        0.1.0.0
+description:    Please see the README on Github at <https://github.com/githubuser/wfp-json#readme>
+homepage:       https://github.com/regiskuckaertz/wfp-json#readme
+bug-reports:    https://github.com/regiskuckaertz/wfp-json/issues
+author:         Regis Kuckaertz
+maintainer:     regis.kuckaertz@theguardian.com
+copyright:      2018 Regis Kuckaertz
+license:        BSD3
+license-file:   LICENSE
+build-type:     Simple
+cabal-version:  >= 1.10
+
+extra-source-files:
+    ChangeLog.md
+    README.md
+
+source-repository head
+  type: git
+  location: https://github.com/regiskuckaertz/wfp-json
+
+library
+  hs-source-dirs:
+      src
+  default-extensions: DeriveGeneric OverloadedStrings
+  build-depends:
+      aeson
+    , base >=4.7 && <5
+    , scientific
+    , text
+  exposed-modules:
+      Data.Capi.Types
+      Data.Capi.Types.Atom
+      Data.Capi.Types.AtomData
+      Data.Capi.Types.AtomType
+      Data.Capi.Types.ChangeRecord
+      Data.Capi.Types.Commonsdivision
+      Data.Capi.Types.ContentChangeDetails
+      Data.Capi.Types.Cta
+      Data.Capi.Types.EmailProvider
+      Data.Capi.Types.Explainer
+      Data.Capi.Types.Flags
+      Data.Capi.Types.Guide
+      Data.Capi.Types.ImageAsset
+      Data.Capi.Types.Interactive
+      Data.Capi.Types.NotificationProviders
+      Data.Capi.Types.Section
+      Data.Capi.Types.Shared
+      Data.Capi.Types.Storyquestions
+      Data.Capi.Types.User
+  other-modules:
+      Paths_wfp_json
+  default-language: Haskell2010
+
+executable wfp-json-exe
+  main-is: Main.hs
+  hs-source-dirs:
+      app
+  default-extensions: DeriveGeneric OverloadedStrings
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      aeson
+    , base >=4.7 && <5
+    , scientific
+    , text
+    , wfp-json
+  other-modules:
+      Paths_wfp_json
+  default-language: Haskell2010
+
+test-suite wfp-json-test
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  hs-source-dirs:
+      test
+  default-extensions: DeriveGeneric OverloadedStrings
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      aeson
+    , base >=4.7 && <5
+    , scientific
+    , text
+    , wfp-json
+  other-modules:
+      Paths_wfp_json
+  default-language: Haskell2010

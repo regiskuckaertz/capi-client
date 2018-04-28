@@ -1,3 +1,3 @@
-# Changelog for wfp-json
+# Changelog for capi-client
 
 ## Unreleased changes

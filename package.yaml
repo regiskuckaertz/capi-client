@@ -1,6 +1,6 @@
-name:                wfp-json
+name:                capi-client
 version:             0.1.0.0
-github:              "regiskuckaertz/wfp-json"
+github:              "regiskuckaertz/capi-client"
 license:             BSD3
 author:              "Regis Kuckaertz"
 maintainer:          "regis.kuckaertz@theguardian.com"
@@ -17,7 +17,7 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on Github at <https://github.com/githubuser/wfp-json#readme>
+description:         Please see the README on Github at <https://github.com/githubuser/capi-client#readme>
 
 dependencies:
 - base >= 4.7 && < 5
@@ -33,7 +33,7 @@ library:
   source-dirs: src
 
 executables:
-  wfp-json-exe:
+  capi-client-exe:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
@@ -41,10 +41,10 @@ executables:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-    - wfp-json
+    - capi-client
 
 tests:
-  wfp-json-test:
+  capi-client-test:
     main:                Spec.hs
     source-dirs:         test
     ghc-options:
@@ -52,4 +52,4 @@ tests:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-    - wfp-json
+    - capi-client
