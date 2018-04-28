@@ -1,0 +1,50 @@
+name:                wfp-json
+version:             0.1.0.0
+github:              "regiskuckaertz/wfp-json"
+license:             BSD3
+author:              "Regis Kuckaertz"
+maintainer:          "regis.kuckaertz@theguardian.com"
+copyright:           "2018 Regis Kuckaertz"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+# Metadata used when publishing your package
+# synopsis:            Short description of your package
+# category:            Web
+
+# To avoid duplicated efforts in documentation and dealing with the
+# complications of embedding Haddock markup inside cabal files, it is
+# common to point users to the README.md file.
+description:         Please see the README on Github at <https://github.com/githubuser/wfp-json#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+- aeson
+- scientific
+
+library:
+  source-dirs: src
+
+executables:
+  wfp-json-exe:
+    main:                Main.hs
+    source-dirs:         app
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - wfp-json
+
+tests:
+  wfp-json-test:
+    main:                Spec.hs
+    source-dirs:         test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - wfp-json
