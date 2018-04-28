@@ -10,7 +10,9 @@ data ImageAssetDimensions =
                         , _width :: Int
                         } deriving (Show, Eq, Ord, Generic)
 
-instance FromJSON ImageAssetDimensions
+-- | TODO decoder
+-- instance FromJSON ImageAssetDimensions
+
 instance ToJSON ImageAssetDimensions where
   toEncoding = genericToEncoding capiOptions
 
