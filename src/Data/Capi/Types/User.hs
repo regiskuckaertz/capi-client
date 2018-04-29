@@ -4,6 +4,8 @@ import GHC.Generics
 import Data.Aeson
 import Data.Capi.Types.Shared
 import Data.Text
+import Data.Text.Arbitrary
+import Test.QuickCheck
 
 data User =
   User { _email :: Text
@@ -19,3 +21,10 @@ instance FromJSON User where
     User <$> v .: "email"
           <*> v .:? "firstName"
           <*> v .:? "lastName"
+
+instance Arbitrary User where
+  arbitrary = User <$> arbitrary <*> arbitrary <*> arbitrary
+
+prop_User u =
+  decode (encode u) == Just u where types = u :: User
+          
