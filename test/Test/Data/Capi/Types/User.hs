@@ -1,5 +1,7 @@
-module Data.Capi.Types.User where
+module Test.Data.Capi.Types.User where
 
+import Data.Aeson
+import Data.Capi.Types.User
 import Test.QuickCheck
 
 instance Arbitrary User where
