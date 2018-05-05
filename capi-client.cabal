@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 41363c7b8e480c2100fa9ef8c9e1cffb1fd6e07e34e77fcce7481be115564567
+-- hash: f69b5cedba0bea109d634f8a9603789de58804ae899243b93af28dbfbd34d804
 
 name:           capi-client
 version:        0.1.0.0
@@ -91,5 +91,6 @@ test-suite capi-client-test
     , quickcheck-text
     , text
   other-modules:
+      Test.Data.Capi.Types.User
       Paths_capi_client
   default-language: Haskell2010
