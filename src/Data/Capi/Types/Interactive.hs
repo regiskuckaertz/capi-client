@@ -1,6 +1,7 @@
 module Data.Capi.Types.Interactive where
 
 import Data.Aeson
+import Data.Capi.Types.ItemResponse
 import Data.Capi.Types.Shared
 import Data.Text
 
@@ -32,3 +33,7 @@ instance ToJSON InteractiveAtom where
             , "mainJS" .= mainJS
             , "docData" .= docData
             ]
+
+
+instance InItemResponse InteractiveAtom where
+  extract = (.: "interactive")

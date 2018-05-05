@@ -2,6 +2,7 @@ module Data.Capi.Types.Cta where
 
 import GHC.Generics
 import Data.Aeson
+import Data.Capi.Types.ItemResponse
 import Data.Capi.Types.Shared
 import Data.Text
 
@@ -23,3 +24,6 @@ instance FromJSON CTAAtom where
             <*> v .: "btnText"
             <*> v .:? "label"
             <*> v .:? "trackingCode"
+
+instance InItemResponse CTAAtom where
+  extract = (.: "cta")

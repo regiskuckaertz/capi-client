@@ -3,6 +3,7 @@ module Data.Capi.Types.Guide where
 import GHC.Generics
 import Data.Aeson
 import Data.Capi.Types.ImageAsset
+import Data.Capi.Types.ItemResponse
 import Data.Capi.Types.Shared
 import Data.Text
 
@@ -46,3 +47,6 @@ instance FromJSON GuideAtom where
 
 instance ToJSON GuideAtom where
   toEncoding = genericToEncoding capi3Options
+
+instance InItemResponse GuideAtom where
+  extract = (.: "guide")

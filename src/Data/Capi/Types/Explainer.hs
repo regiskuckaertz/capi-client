@@ -9,6 +9,7 @@ module Data.Capi.Types.Explainer
 import GHC.Generics
 import Data.Aeson
 import Data.Capi.Types.Shared
+import Data.Capi.Types.ItemResponse
 import Data.Text
 
 newtype DisplayType = DT Int deriving (Show, Eq, Ord)
@@ -50,3 +51,6 @@ instance FromJSON ExplainerAtom where
 
 instance ToJSON ExplainerAtom where
   toEncoding = genericToEncoding capiOptions
+
+instance InItemResponse ExplainerAtom where
+  extract = (.: "explainer")

@@ -2,6 +2,7 @@ module Data.Capi.Types.Commonsdivision where
 
 import GHC.Generics
 import Data.Aeson
+import Data.Capi.Types.ItemResponse
 import Data.Capi.Types.Shared
 import Data.Text
 
@@ -42,3 +43,6 @@ instance FromJSON CommonsDivisionAtom where
 
 instance ToJSON CommonsDivisionAtom where
   toEncoding = genericToEncoding capi3Options
+
+instance InItemResponse CommonsDivisionAtom where
+  extract = (.: "commonsdivision")

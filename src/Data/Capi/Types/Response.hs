@@ -1,4 +1,4 @@
-module Data.Capi.Types.AtomsResponse where
+module Data.Capi.Types.Response where
 
 import Data.Aeson
 import Data.Capi.Types.Atom

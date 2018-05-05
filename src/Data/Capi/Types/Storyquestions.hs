@@ -2,6 +2,7 @@ module Data.Capi.Types.Storyquestions where
 
 import GHC.Generics
 import Data.Aeson
+import Data.Capi.Types.ItemResponse
 import Data.Capi.Types.NotificationProviders
 import Data.Capi.Types.Shared
 import Data.Text
@@ -89,3 +90,6 @@ instance FromJSON StoryQuestionsAtom where
                         <*> v .:? "userQuestions"
                         <*> v .:? "notifications"
                         <*> v .:? "closeDate"
+
+instance InItemResponse StoryQuestionsAtom where
+  extract = (.: "storyquestions")
