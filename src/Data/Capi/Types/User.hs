@@ -22,9 +22,3 @@ instance FromJSON User where
           <*> v .:? "firstName"
           <*> v .:? "lastName"
 
-instance Arbitrary User where
-  arbitrary = User <$> arbitrary <*> arbitrary <*> arbitrary
-
-prop_User u =
-  decode (encode u) == Just u where types = u :: User
-          
