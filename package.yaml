@@ -25,6 +25,7 @@ dependencies:
 - text
 - QuickCheck
 - quickcheck-text
+- unordered-containers
 
 default-extensions:
 - DeriveGeneric

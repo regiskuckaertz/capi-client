@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: decff995013ae18d28c1cb26a5795e611a154d2c4aee06d31f069e4aee3bd3ac
+-- hash: ccd609876975a95285f8f39f34e22c74a9beee9ef64f88736d0532dc06866d51
 
 name:           capi-client
 version:        0.1.0.0
@@ -35,6 +35,7 @@ library
     , base >=4.7 && <5
     , quickcheck-text
     , text
+    , unordered-containers
   exposed-modules:
       Data.Capi.Types
       Data.Capi.Types.Atom
@@ -52,6 +53,7 @@ library
       Data.Capi.Types.ImageAsset
       Data.Capi.Types.Interactive
       Data.Capi.Types.NotificationProviders
+      Data.Capi.Types.ResponseMetadata
       Data.Capi.Types.Section
       Data.Capi.Types.Shared
       Data.Capi.Types.Storyquestions
@@ -73,6 +75,7 @@ executable capi-client-exe
     , capi-client
     , quickcheck-text
     , text
+    , unordered-containers
   other-modules:
       Paths_capi_client
   default-language: Haskell2010
@@ -91,6 +94,7 @@ test-suite capi-client-test
     , capi-client
     , quickcheck-text
     , text
+    , unordered-containers
   other-modules:
       Test.Data.Capi.Types.User
       Paths_capi_client
