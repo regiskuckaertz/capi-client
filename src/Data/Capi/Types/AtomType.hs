@@ -2,49 +2,49 @@ module Data.Capi.Types.AtomType where
 
 import Data.Aeson
 
-data AtomType = Quiz
-              | Media
-              | Explainer
-              | Cta
-              | Interactive
-              | Review
-              | Recipe
-              | Storyquestions
-              | Qanda
-              | Guide
-              | Profile
-              | Timeline
-              | Commonsdivision
+data AtomType = TyQuiz
+              | TyMedia
+              | TyExplainer
+              | TyCta
+              | TyInteractive
+              | TyReview
+              | TyRecipe
+              | TyStoryquestions
+              | TyQanda
+              | TyGuide
+              | TyProfile
+              | TyTimeline
+              | TyCommonsdivision
   deriving (Show, Eq, Ord)
 
 instance ToJSON AtomType where
-  toJSON Quiz = String "quiz"
-  toJSON Media = String "media"
-  toJSON Explainer = String "explainer"
-  toJSON Cta = String "cta"
-  toJSON Interactive = String "interactive"
-  toJSON Review = String "review"
-  toJSON Recipe = String "recipe"
-  toJSON Storyquestions = String "storyquestions"
-  toJSON Qanda = String "qanda"
-  toJSON Guide = String "guide"
-  toJSON Profile = String "profile"
-  toJSON Timeline = String "timeline"
-  toJSON Commonsdivision = String "commonsdivision"
+  toJSON TyQuiz = String "quiz"
+  toJSON TyMedia = String "media"
+  toJSON TyExplainer = String "explainer"
+  toJSON TyCta = String "cta"
+  toJSON TyInteractive = String "interactive"
+  toJSON TyReview = String "review"
+  toJSON TyRecipe = String "recipe"
+  toJSON TyStoryquestions = String "storyquestions"
+  toJSON TyQanda = String "qanda"
+  toJSON TyGuide = String "guide"
+  toJSON TyProfile = String "profile"
+  toJSON TyTimeline = String "timeline"
+  toJSON TyCommonsdivision = String "commonsdivision"
 
 instance FromJSON AtomType where
   parseJSON = withText "AtomType" $ \t -> case t of
-    "quiz" -> pure Quiz
-    "media" -> pure Media
-    "explainer" -> pure Explainer
-    "cta" -> pure Cta
-    "interactive" -> pure Interactive
-    "review" -> pure Review
-    "recipe" -> pure Recipe
-    "storyquestions" -> pure Storyquestions
-    "qanda" -> pure Qanda
-    "guide" -> pure Guide
-    "profile" -> pure Profile
-    "timeline" -> pure Timeline
-    "commonsdivision" -> pure Commonsdivision
+    "quiz" -> pure TyQuiz
+    "media" -> pure TyMedia
+    "explainer" -> pure TyExplainer
+    "cta" -> pure TyCta
+    "interactive" -> pure TyInteractive
+    "review" -> pure TyReview
+    "recipe" -> pure TyRecipe
+    "storyquestions" -> pure TyStoryquestions
+    "qanda" -> pure TyQanda
+    "guide" -> pure TyGuide
+    "profile" -> pure TyProfile
+    "timeline" -> pure TyTimeline
+    "commonsdivision" -> pure TyCommonsdivision
     _ -> fail $ "Invalid AtomType (" ++ show t ++ ")"

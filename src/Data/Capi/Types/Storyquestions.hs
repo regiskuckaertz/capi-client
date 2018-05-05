@@ -16,15 +16,15 @@ instance FromJSON RelatedStoryLinkType where
   parseJSON (String "tag") = pure Tag
   parseJSON (String "story") = pure Story
 
-data AnswerType = Content | Atom deriving (Show, Eq, Ord)
+data AnswerType = ATyContent | ATyAtom deriving (Show, Eq, Ord)
 
 instance ToJSON AnswerType where
-  toJSON Content = String "content"
-  toJSON Atom = String "atom"
+  toJSON ATyContent = String "content"
+  toJSON ATyAtom = String "atom"
 
 instance FromJSON AnswerType where
-  parseJSON (String "content") = pure Content
-  parseJSON (String "atom") = pure Atom
+  parseJSON (String "content") = pure ATyContent
+  parseJSON (String "atom") = pure ATyAtom
 
 data Answer = Answer Text AnswerType deriving (Show, Eq, Ord)
 
