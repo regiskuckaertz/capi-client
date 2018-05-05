@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: f69b5cedba0bea109d634f8a9603789de58804ae899243b93af28dbfbd34d804
+-- hash: decff995013ae18d28c1cb26a5795e611a154d2c4aee06d31f069e4aee3bd3ac
 
 name:           capi-client
 version:        0.1.0.0
@@ -39,6 +39,7 @@ library
       Data.Capi.Types
       Data.Capi.Types.Atom
       Data.Capi.Types.AtomData
+      Data.Capi.Types.AtomsResponse
       Data.Capi.Types.AtomType
       Data.Capi.Types.ChangeRecord
       Data.Capi.Types.Commonsdivision
