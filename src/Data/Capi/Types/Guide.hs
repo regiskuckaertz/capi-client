@@ -1,5 +1,6 @@
 module Data.Capi.Types.Guide where
 
+import GHC.Generics
 import Data.Aeson
 import Data.Capi.Types.ImageAsset
 import Data.Capi.Types.Shared
@@ -35,9 +36,13 @@ data GuideAtom =
             , _guGuideImage :: Maybe Image
             , _guItems :: [GuideItem]
             }
-  deriving (Show, Eq, Ord)
+  deriving (Show, Eq, Ord, Generic)
 
--- | TODO write encoder/decoder for Image
--- instance FromJSON GuideAtom
--- instance ToJSON GuideAtom where
---   toEncoding = genericToEncoding capiOptions
+instance FromJSON GuideAtom where
+  parseJSON = withObject "GuideAtom" $ \v ->
+    GuideAtom <$> v .: "typeLabel"
+              <*> v .: "guideImage"
+              <*> v .: "guItems"
+
+instance ToJSON GuideAtom where
+  toEncoding = genericToEncoding capi3Options

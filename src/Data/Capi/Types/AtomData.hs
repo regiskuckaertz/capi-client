@@ -1,6 +1,8 @@
 module Data.Capi.Types.AtomData where
 
 import GHC.Generics
+import Control.Applicative ((<|>))
+import Control.Arrow ((&&&))
 import Data.Aeson
 import Data.Capi.Types.Explainer
 import Data.Capi.Types.Interactive
@@ -8,6 +10,7 @@ import Data.Capi.Types.Storyquestions
 import Data.Capi.Types.Guide
 import Data.Capi.Types.Commonsdivision
 import Data.Capi.Types.Shared
+import Data.Char(toLower)
 
 data AtomData =
   Explainer ExplainerAtom
@@ -19,7 +22,7 @@ data AtomData =
 
 instance ToJSON AtomData where
   toEncoding = genericToEncoding capiOptions { sumEncoding = ObjectWithSingleField
-                                              , constructorTagModifier = toLower
+                                              , constructorTagModifier = uncurry (:) . (toLower . head &&& tail)
                                               }
 
 instance FromJSON AtomData where

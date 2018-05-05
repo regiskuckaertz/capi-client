@@ -20,5 +20,13 @@ data ContentChangeDetails =
 instance ToJSON ContentChangeDetails where
   toEncoding = genericToEncoding capiOptions
 
--- | TODO write decoder
--- instance FromJSON ContentChangeDetails 
+instance FromJSON ContentChangeDetails where
+  parseJSON = withObject "ContentChangeDetails" $ \v ->
+    ContentChangeDetails <$> v .: "lastModified"
+                          <*> v .: "created"
+                          <*> v .: "published"
+                          <*> v .: "takenDown"
+                          <*> v .: "scheduledLaunch"
+                          <*> v .: "embargo"
+                          <*> v .: "expiry"
+                          <*> v .: "revision"

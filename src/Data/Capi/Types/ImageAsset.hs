@@ -10,8 +10,10 @@ data ImageAssetDimensions =
                         , _width :: Int
                         } deriving (Show, Eq, Ord, Generic)
 
--- | TODO decoder
--- instance FromJSON ImageAssetDimensions
+instance FromJSON ImageAssetDimensions where
+  parseJSON = withObject "ImageAssetDimensions" $ \v ->
+    ImageAssetDimensions <$> v .: "height"
+                          <*> v .: "width"
 
 instance ToJSON ImageAssetDimensions where
   toEncoding = genericToEncoding capiOptions
@@ -29,8 +31,18 @@ data ImageAsset =
               , _suppliersReference :: Maybe Text
               } deriving (Show, Eq, Ord, Generic)
 
--- | TODO write decoder
--- instance FromJSON ImageAsset where
+instance FromJSON ImageAsset where
+  parseJSON = withObject "ImageAsset" $ \v ->
+    ImageAsset <$> v .:? "mimeType"
+                <*> v.: "file"
+                <*> v.:? "dimensions"
+                <*> v.:? "size"
+                <*> v.:? "aspectRatio"
+                <*> v.:? "credit"
+                <*> v.:? "copyright"
+                <*> v.:? "source"
+                <*> v.:? "photographer"
+                <*> v.:? "suppliersReference"
 
 instance ToJSON ImageAsset where
   toEncoding = genericToEncoding capiOptions
@@ -40,8 +52,14 @@ data Image =
         , _master :: Maybe ImageAsset
         , _mediaId :: Text
         , _imageSource :: Maybe Text
-        } deriving (Show, Eq, Ord)
+        } deriving (Show, Eq, Ord, Generic)
 
--- | TODO
--- | - write JSON decoder
--- | - write JSON encoder
+instance ToJSON Image where
+  toEncoding = genericToEncoding capiOptions
+              
+instance FromJSON Image where
+  parseJSON = withObject "Image" $ \v ->
+    Image <$> v .: "assets"
+          <*> v .:? "master"
+          <*> v .: "mediaId"
+          <*> v .:? "imageSource"
