@@ -1,0 +1,153 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "internal",
+    "total": 1,
+    "guide": {
+      "id": "7e068732-3dcd-4933-b343-be0326c33f56",
+      "atomType": "guide",
+      "labels": [],
+      "defaultHtml": "<div class=\"atom-Guide\"><p><strong>Status quo prevails on night of no real victors</strong></p><p><p>By early morning Labour had gained seats but failed to make the advances it had hoped for in London. The Conservatives lost seats but were relieved to cling on to key councils. Brandon Lewis, the Conservative party chairman, said his party had a “reasonable night, a good night”. Jeremy Corbyn celebrated seizing Plymouth council and said he was \"delighted\" by the result. One pollster estimated that a general election matching these results would see Labour with a similar number of seats to the 262 it scored in 2017, while the Tories would lose 12.</p></p><p><strong>Tories lose control of Trafford stronghold</strong></p><p><p>Surprise success for two Green candidates against Conservative incumbents helped Labour become the biggest party in the Manchester council, one of its biggest successes of the night. \"I’m absolutely ecstatic,” said Andrew Western, the leader of the Labour group on Trafford council. “This is far beyond our expectations.\"</p></p><p><strong>Labour's Barnet defeat blamed on antisemitism row </strong></p><p><p>Hoping for a 1.6% swing and one additional seat to win Barnet from no overall control, Labour instead saw the council move into the Conservative column. Party activists in the area - which has a significant Jewish population - blamed the antisemitism row that has engulfed the capital. Defeated Labour councillor Adam Langleben called for Jeremy Corbyn to apologise to Jewish activists, adding: \"We as Jewish Labour activists were told we were endorsing anti-semitism.\"</p></p><p><strong>Modest success for Lib Dems in remain areas</strong></p><p><p>The party celebrated as it took control of Richmond by gaining 22 seats and had some other good results. Ed Davey, the party’s home affairs spokesman, said: \"It’s building a hugely important platform for future victories.” But elsewhere Vince Cable’s party showed no signs of enjoying the sort of recovery that would see it turn into a strong force at Westminster.</p></p><p><strong>Catastrophic night for 'Black Death' Ukip</strong></p><p><p>Ukip's vote collapsed and by Friday morning it held just two seats, 44 down on four years ago. General secretary Paul Oakley tried to put a brave face on things by comparing the party to the Black Death. \"It's not all over at all,\" he told BBC Radio 4's Today programme. \"Think of the Black Death in the Middle Ages. It comes along and it causes disruption and then it goes dormant, and that's exactly what we are going to do. Our time isn't finished because Brexit is being betrayed.\" <b>Dan Sabbagh and Andrew Sparrow</b></p></p></div>",
+      "data": {
+        "guide": {
+          "guideImage": {
+            "assets": [
+              {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/2000.jpg",
+                "dimensions": {
+                  "height": 1200,
+                  "width": 2000
+                },
+                "size": 319117,
+                "credit": "Photograph: Victoria Jones/PA",
+                "source": "PA",
+                "photographer": "Victoria Jones",
+                "suppliersReference": "POLITICS_Election_032696.JPG"
+              },
+              {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/1000.jpg",
+                "dimensions": {
+                  "height": 600,
+                  "width": 1000
+                },
+                "size": 99967,
+                "credit": "Photograph: Victoria Jones/PA",
+                "source": "PA",
+                "photographer": "Victoria Jones",
+                "suppliersReference": "POLITICS_Election_032696.JPG"
+              },
+              {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/500.jpg",
+                "dimensions": {
+                  "height": 300,
+                  "width": 500
+                },
+                "size": 35485,
+                "credit": "Photograph: Victoria Jones/PA",
+                "source": "PA",
+                "photographer": "Victoria Jones",
+                "suppliersReference": "POLITICS_Election_032696.JPG"
+              },
+              {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/140.jpg",
+                "dimensions": {
+                  "height": 84,
+                  "width": 140
+                },
+                "size": 7508,
+                "credit": "Photograph: Victoria Jones/PA",
+                "source": "PA",
+                "photographer": "Victoria Jones",
+                "suppliersReference": "POLITICS_Election_032696.JPG"
+              },
+              {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/3500.jpg",
+                "dimensions": {
+                  "height": 2100,
+                  "width": 3500
+                },
+                "size": 972338,
+                "credit": "Photograph: Victoria Jones/PA",
+                "source": "PA",
+                "photographer": "Victoria Jones",
+                "suppliersReference": "POLITICS_Election_032696.JPG"
+              }
+            ],
+            "master": {
+              "mimeType": "image/jpeg",
+              "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/master/3500.jpg",
+              "dimensions": {
+                "height": 2100,
+                "width": 3500
+              },
+              "size": 6451527,
+              "credit": "Photograph: Victoria Jones/PA",
+              "source": "PA",
+              "photographer": "Victoria Jones",
+              "suppliersReference": "POLITICS_Election_032696.JPG"
+            },
+            "mediaId": "https://api.media.gutools.co.uk/images/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e"
+          },
+          "items": [
+            {
+              "title": "Status quo prevails on night of no real victors",
+              "body": "<p>By early morning Labour had gained seats but failed to make the advances it had hoped for in London. The Conservatives lost seats but were relieved to cling on to key councils. Brandon Lewis, the Conservative party chairman, said his party had a “reasonable night, a good night”. Jeremy Corbyn celebrated seizing Plymouth council and said he was \"delighted\" by the result. One pollster estimated that a general election matching these results would see Labour with a similar number of seats to the 262 it scored in 2017, while the Tories would lose 12.</p>"
+            },
+            {
+              "title": "Tories lose control of Trafford stronghold",
+              "body": "<p>Surprise success for two Green candidates against Conservative incumbents helped Labour become the biggest party in the Manchester council, one of its biggest successes of the night. \"I’m absolutely ecstatic,” said Andrew Western, the leader of the Labour group on Trafford council. “This is far beyond our expectations.\"</p>"
+            },
+            {
+              "title": "Labour's Barnet defeat blamed on antisemitism row ",
+              "body": "<p>Hoping for a 1.6% swing and one additional seat to win Barnet from no overall control, Labour instead saw the council move into the Conservative column. Party activists in the area - which has a significant Jewish population - blamed the antisemitism row that has engulfed the capital. Defeated Labour councillor Adam Langleben called for Jeremy Corbyn to apologise to Jewish activists, adding: \"We as Jewish Labour activists were told we were endorsing anti-semitism.\"</p>"
+            },
+            {
+              "title": "Modest success for Lib Dems in remain areas",
+              "body": "<p>The party celebrated as it took control of Richmond by gaining 22 seats and had some other good results. Ed Davey, the party’s home affairs spokesman, said: \"It’s building a hugely important platform for future victories.” But elsewhere Vince Cable’s party showed no signs of enjoying the sort of recovery that would see it turn into a strong force at Westminster.</p>"
+            },
+            {
+              "title": "Catastrophic night for 'Black Death' Ukip",
+              "body": "<p>Ukip's vote collapsed and by Friday morning it held just two seats, 44 down on four years ago. General secretary Paul Oakley tried to put a brave face on things by comparing the party to the Black Death. \"It's not all over at all,\" he told BBC Radio 4's Today programme. \"Think of the Black Death in the Middle Ages. It comes along and it causes disruption and then it goes dormant, and that's exactly what we are going to do. Our time isn't finished because Brexit is being betrayed.\" <b>Dan Sabbagh and Andrew Sparrow</b></p>"
+            }
+          ]
+        }
+      },
+      "contentChangeDetails": {
+        "lastModified": {
+          "date": 1525456921000,
+          "user": {
+            "email": "richard.preston@guardian.co.uk",
+            "firstName": "Richard",
+            "lastName": "Preston"
+          }
+        },
+        "created": {
+          "date": 1525419242000,
+          "user": {
+            "email": "archie.bland@guardian.co.uk",
+            "firstName": "Archie",
+            "lastName": "Bland"
+          }
+        },
+        "published": {
+          "date": 1525456921000,
+          "user": {
+            "email": "richard.preston@guardian.co.uk",
+            "firstName": "Richard",
+            "lastName": "Preston"
+          }
+        },
+        "revision": 194
+      },
+      "title": "Local elections: the night at a glance",
+      "commissioningDesks": [
+        "tracking/commissioningdesk/uk-home-news"
+      ]
+    }
+  }
+}

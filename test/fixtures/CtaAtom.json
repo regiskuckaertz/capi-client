@@ -1,0 +1,51 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "internal",
+    "total": 1,
+    "cta": {
+      "id": "d9da3576-59d7-4df3-884a-76e40096b997",
+      "atomType": "cta",
+      "labels": [],
+      "defaultHtml": "<div class=\"atom-Cta\"></div>",
+      "data": {
+        "cta": {
+          "url": "www.mcormickcorporation.com/our-commitment",
+          "backgroundImage": "https://media.guim.co.uk/8792834b23df0fe6248944d595d799066bdf7d7d/0_0_1300_374/1300.jpg",
+          "btnText": "Learn more",
+          "label": "Learn about one of the world's most tantalizing flavors",
+          "trackingCode": "mccormick-2018-V1"
+        }
+      },
+      "contentChangeDetails": {
+        "lastModified": {
+          "date": 1524860496000,
+          "user": {
+            "email": "charlotte.andaloro@guardian.co.uk",
+            "firstName": "Charlotte",
+            "lastName": "Andaloro"
+          }
+        },
+        "created": {
+          "date": 1524859837000,
+          "user": {
+            "email": "charlotte.andaloro@guardian.co.uk",
+            "firstName": "Charlotte",
+            "lastName": "Andaloro"
+          }
+        },
+        "published": {
+          "date": 1524860496000,
+          "user": {
+            "email": "charlotte.andaloro@guardian.co.uk",
+            "firstName": "Charlotte",
+            "lastName": "Andaloro"
+          }
+        },
+        "revision": 13
+      },
+      "title": "McCormick 2018",
+      "commissioningDesks": []
+    }
+  }
+}

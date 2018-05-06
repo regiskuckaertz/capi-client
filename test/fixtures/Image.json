@@ -1,0 +1,83 @@
+{
+  "assets": [
+    {
+      "mimeType": "image/jpeg",
+      "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/2000.jpg",
+      "dimensions": {
+        "height": 1200,
+        "width": 2000
+      },
+      "size": 319117,
+      "credit": "Photograph: Victoria Jones/PA",
+      "source": "PA",
+      "photographer": "Victoria Jones",
+      "suppliersReference": "POLITICS_Election_032696.JPG"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/1000.jpg",
+      "dimensions": {
+        "height": 600,
+        "width": 1000
+      },
+      "size": 99967,
+      "credit": "Photograph: Victoria Jones/PA",
+      "source": "PA",
+      "photographer": "Victoria Jones",
+      "suppliersReference": "POLITICS_Election_032696.JPG"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/500.jpg",
+      "dimensions": {
+        "height": 300,
+        "width": 500
+      },
+      "size": 35485,
+      "credit": "Photograph: Victoria Jones/PA",
+      "source": "PA",
+      "photographer": "Victoria Jones",
+      "suppliersReference": "POLITICS_Election_032696.JPG"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/140.jpg",
+      "dimensions": {
+        "height": 84,
+        "width": 140
+      },
+      "size": 7508,
+      "credit": "Photograph: Victoria Jones/PA",
+      "source": "PA",
+      "photographer": "Victoria Jones",
+      "suppliersReference": "POLITICS_Election_032696.JPG"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/3500.jpg",
+      "dimensions": {
+        "height": 2100,
+        "width": 3500
+      },
+      "size": 972338,
+      "credit": "Photograph: Victoria Jones/PA",
+      "source": "PA",
+      "photographer": "Victoria Jones",
+      "suppliersReference": "POLITICS_Election_032696.JPG"
+    }
+  ],
+  "master": {
+    "mimeType": "image/jpeg",
+    "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/master/3500.jpg",
+    "dimensions": {
+      "height": 2100,
+      "width": 3500
+    },
+    "size": 6451527,
+    "credit": "Photograph: Victoria Jones/PA",
+    "source": "PA",
+    "photographer": "Victoria Jones",
+    "suppliersReference": "POLITICS_Election_032696.JPG"
+  },
+  "mediaId": "https://api.media.gutools.co.uk/images/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e"
+}

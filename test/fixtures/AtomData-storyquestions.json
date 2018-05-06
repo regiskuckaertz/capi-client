@@ -1,0 +1,49 @@
+{
+  "relatedStoryId": "(None)",
+  "relatedStoryLinkType": "tag",
+  "title": "The trial of Cardinal George Pell",
+  "editorialQuestions": [
+    {
+      "questionSetId": "ddce87bb-7e04-434e-8f55-85b21a3f491f",
+      "questionSetTitle": "ddce87bb-7e04-434e-8f55-85b21a3f491f",
+      "questions": [
+        {
+          "questionId": "e288df92-79bb-43a2-9540-fcb48d529169",
+          "questionText": "Who is Cardinal George Pell and why is he important?",
+          "answers": [
+            {
+              "answerId": "atom/qanda/a73f979a-4bfd-46ee-be34-e92bb8efd47e",
+              "answerType": "atom"
+            }
+          ]
+        },
+        {
+          "questionId": "02cc6519-5e41-43b3-a059-cf8dc068323d",
+          "questionText": "What is the wider context of this story?",
+          "answers": [
+            {
+              "answerId": "atom/qanda/f4840d70-93b7-4596-bc95-58ecd1ab34b0",
+              "answerType": "atom"
+            }
+          ]
+        },
+        {
+          "questionId": "7dd9d2f9-eb6d-4057-a74f-28f5414896c3",
+          "questionText": "What does ​​it mean for the ​pope and the Catholic church?",
+          "answers": [
+            {
+              "answerId": "atom/qanda/2e991eac-a442-49e0-94e9-4a412ab74a5e",
+              "answerType": "atom"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notifications": {
+    "email": {
+      "name": "exact-target",
+      "listId": "4268"
+    }
+  }
+}
