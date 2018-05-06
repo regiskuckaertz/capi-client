@@ -4,8 +4,6 @@ import GHC.Generics
 import Data.Aeson
 import Data.Capi.Types.Shared
 import Data.Text
-import Data.Text.Arbitrary
-import Test.QuickCheck
 
 data User =
   User { _email :: Text
