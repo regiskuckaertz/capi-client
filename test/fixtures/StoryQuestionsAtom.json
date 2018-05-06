@@ -63,7 +63,7 @@
         "lastModified": {
           "date": 1525160355000,
           "user": {
-            "email": "chris.moran@guardian.co.uk",
+            "email": "emailme@domain.com",
             "firstName": "Chris",
             "lastName": "Moran"
           }
@@ -71,7 +71,7 @@
         "created": {
           "date": 1525158863000,
           "user": {
-            "email": "chris.moran@guardian.co.uk",
+            "email": "emailme@domain.com",
             "firstName": "Chris",
             "lastName": "Moran"
           }
@@ -79,7 +79,7 @@
         "published": {
           "date": 1525160355000,
           "user": {
-            "email": "chris.moran@guardian.co.uk",
+            "email": "emailme@domain.com",
             "firstName": "Chris",
             "lastName": "Moran"
           }

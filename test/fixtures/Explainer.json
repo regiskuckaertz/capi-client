@@ -19,7 +19,7 @@
         "lastModified": {
           "date": 1524060809000,
           "user": {
-            "email": "roger.ridey@guardian.co.uk",
+            "email": "emailme@domain.com",
             "firstName": "Roger",
             "lastName": "Ridey"
           }
@@ -27,7 +27,7 @@
         "created": {
           "date": 1517242998000,
           "user": {
-            "email": "regis.kuckaertz@guardian.co.uk",
+            "email": "emailme@domain.com",
             "firstName": "Regis",
             "lastName": "Kuckaertz"
           }
@@ -35,7 +35,7 @@
         "published": {
           "date": 1524060809000,
           "user": {
-            "email": "roger.ridey@guardian.co.uk",
+            "email": "emailme@domain.com",
             "firstName": "Roger",
             "lastName": "Ridey"
           }

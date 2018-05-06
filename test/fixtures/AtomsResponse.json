@@ -188,7 +188,7 @@
           "lastModified": {
             "date": 1525528103000,
             "user": {
-              "email": "jeremy.lennard.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Jeremy",
               "lastName": "Lennard (Casual)"
             }
@@ -196,7 +196,7 @@
           "created": {
             "date": 1525521293000,
             "user": {
-              "email": "akshata.rao.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Akshata",
               "lastName": "Rao"
             }
@@ -204,7 +204,7 @@
           "published": {
             "date": 1525528103000,
             "user": {
-              "email": "jeremy.lennard.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Jeremy",
               "lastName": "Lennard (Casual)"
             }
@@ -437,7 +437,7 @@
           "lastModified": {
             "date": 1525513417000,
             "user": {
-              "email": "akshata.rao.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Akshata",
               "lastName": "Rao"
             }
@@ -445,7 +445,7 @@
           "created": {
             "date": 1521559873000,
             "user": {
-              "email": "james.bullock.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "James",
               "lastName": "Bullock"
             }
@@ -453,7 +453,7 @@
           "published": {
             "date": 1525513417000,
             "user": {
-              "email": "akshata.rao.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Akshata",
               "lastName": "Rao"
             }
@@ -651,7 +651,7 @@
           "created": {
             "date": 1525445090000,
             "user": {
-              "email": "gary.marshall.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Gary",
               "lastName": "Marshall"
             }
@@ -867,7 +867,7 @@
           "lastModified": {
             "date": 1525494698000,
             "user": {
-              "email": "alison.rourke@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Alison",
               "lastName": "Rourke"
             }
@@ -875,7 +875,7 @@
           "created": {
             "date": 1523595194000,
             "user": {
-              "email": "david.fanner@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "David",
               "lastName": "Fanner"
             }
@@ -883,7 +883,7 @@
           "published": {
             "date": 1525494698000,
             "user": {
-              "email": "alison.rourke@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Alison",
               "lastName": "Rourke"
             }
@@ -1088,7 +1088,7 @@
           "lastModified": {
             "date": 1525470645000,
             "user": {
-              "email": "paul.vaughan@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Paul",
               "lastName": "Vaughan"
             }
@@ -1096,7 +1096,7 @@
           "created": {
             "date": 1525466770000,
             "user": {
-              "email": "gary.marshall.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Gary",
               "lastName": "Marshall"
             }
@@ -1104,7 +1104,7 @@
           "published": {
             "date": 1525470645000,
             "user": {
-              "email": "paul.vaughan@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Paul",
               "lastName": "Vaughan"
             }
@@ -1232,7 +1232,7 @@
           "lastModified": {
             "date": 1525456921000,
             "user": {
-              "email": "richard.preston@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Richard",
               "lastName": "Preston"
             }
@@ -1240,7 +1240,7 @@
           "created": {
             "date": 1525419242000,
             "user": {
-              "email": "archie.bland@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Archie",
               "lastName": "Bland"
             }
@@ -1248,7 +1248,7 @@
           "published": {
             "date": 1525456921000,
             "user": {
-              "email": "richard.preston@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Richard",
               "lastName": "Preston"
             }
@@ -1461,7 +1461,7 @@
           "lastModified": {
             "date": 1525456408000,
             "user": {
-              "email": "niall.mcveigh@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Niall",
               "lastName": "McVeigh"
             }
@@ -1469,7 +1469,7 @@
           "created": {
             "date": 1525454919000,
             "user": {
-              "email": "africa.rosaleny.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Africa",
               "lastName": "Rosaleny.Casual"
             }
@@ -1477,7 +1477,7 @@
           "published": {
             "date": 1525456408000,
             "user": {
-              "email": "niall.mcveigh@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Niall",
               "lastName": "McVeigh"
             }
@@ -1506,7 +1506,7 @@
           "lastModified": {
             "date": 1525453200000,
             "user": {
-              "email": "kim.cortes@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Kim",
               "lastName": "Cortes"
             }
@@ -1514,7 +1514,7 @@
           "created": {
             "date": 1525452912000,
             "user": {
-              "email": "kim.cortes@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Kim",
               "lastName": "Cortes"
             }
@@ -1522,7 +1522,7 @@
           "published": {
             "date": 1525453200000,
             "user": {
-              "email": "kim.cortes@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Kim",
               "lastName": "Cortes"
             }
@@ -2190,13 +2190,13 @@
           "lastModified": {
             "date": 1525452415000,
             "user": {
-              "email": "peter.beech.casual@guardian.co.uk"
+              "email": "emailme@domain.com"
             }
           },
           "created": {
             "date": 1525173232000,
             "user": {
-              "email": "naomi.larsson.casual@guardian.co.uk"
+              "email": "emailme@domain.com"
             }
           },
           "revision": 7566
@@ -2395,7 +2395,7 @@
           "lastModified": {
             "date": 1525450971000,
             "user": {
-              "email": "jeremy.lennard.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Jeremy",
               "lastName": "Lennard (Casual)"
             }
@@ -2403,7 +2403,7 @@
           "created": {
             "date": 1525448736000,
             "user": {
-              "email": "gary.marshall.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Gary",
               "lastName": "Marshall"
             }
@@ -2411,7 +2411,7 @@
           "published": {
             "date": 1525450971000,
             "user": {
-              "email": "jeremy.lennard.casual@guardian.co.uk",
+              "email": "emailme@domain.com",
               "firstName": "Jeremy",
               "lastName": "Lennard (Casual)"
             }

@@ -121,7 +121,7 @@
         "lastModified": {
           "date": 1525456921000,
           "user": {
-            "email": "richard.preston@guardian.co.uk",
+            "email": "emailme@domain.com",
             "firstName": "Richard",
             "lastName": "Preston"
           }
@@ -129,7 +129,7 @@
         "created": {
           "date": 1525419242000,
           "user": {
-            "email": "archie.bland@guardian.co.uk",
+            "email": "emailme@domain.com",
             "firstName": "Archie",
             "lastName": "Bland"
           }
@@ -137,7 +137,7 @@
         "published": {
           "date": 1525456921000,
           "user": {
-            "email": "richard.preston@guardian.co.uk",
+            "email": "emailme@domain.com",
             "firstName": "Richard",
             "lastName": "Preston"
           }
