@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: f69b5cedba0bea109d634f8a9603789de58804ae899243b93af28dbfbd34d804
+-- hash: c1633715e425b01a35d87e13779c8696cd1880a46d58bf84dfe507033144495d
 
 name:           capi-client
 version:        0.1.0.0
@@ -30,10 +30,8 @@ library
       src
   default-extensions: DeriveGeneric OverloadedStrings
   build-depends:
-      QuickCheck
-    , aeson
+      aeson
     , base >=4.7 && <5
-    , quickcheck-text
     , text
   exposed-modules:
       Data.Capi.Types
@@ -66,11 +64,9 @@ executable capi-client-exe
   default-extensions: DeriveGeneric OverloadedStrings
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
   build-depends:
-      QuickCheck
-    , aeson
+      aeson
     , base >=4.7 && <5
     , capi-client
-    , quickcheck-text
     , text
   other-modules:
       Paths_capi_client
@@ -84,7 +80,8 @@ test-suite capi-client-test
   default-extensions: DeriveGeneric OverloadedStrings
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
   build-depends:
-      QuickCheck
+      HUnit
+    , QuickCheck
     , aeson
     , base >=4.7 && <5
     , capi-client

@@ -23,8 +23,6 @@ dependencies:
 - base >= 4.7 && < 5
 - aeson
 - text
-- QuickCheck
-- quickcheck-text
 
 default-extensions:
 - DeriveGeneric
@@ -54,3 +52,6 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - capi-client
+    - QuickCheck
+    - quickcheck-text
+    - HUnit

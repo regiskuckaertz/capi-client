@@ -1,0 +1,2426 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "internal",
+    "total": 16127,
+    "startIndex": 1,
+    "pageSize": 10,
+    "currentPage": 1,
+    "pages": 1613,
+    "results": [
+      {
+        "id": "badc6960-6bbb-4a8d-a235-1d8637e0e2a9",
+        "atomType": "media",
+        "labels": [],
+        "defaultHtml": "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/sruDj5ueMaI?showinfo=0&rel=0\"></iframe>",
+        "data": {
+          "media": {
+            "assets": [
+              {
+                "assetType": "video",
+                "version": 1,
+                "id": "sruDj5ueMaI",
+                "platform": "youtube"
+              }
+            ],
+            "activeVersion": 1,
+            "title": "Nasa launches InSight lander on mission to Mars - video",
+            "category": "news",
+            "duration": 51,
+            "source": "Nasa",
+            "posterUrl": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1920_1080/master/1920.jpg",
+            "description": "<p>The&nbsp;<a href=\"https://www.theguardian.com/science/2018/may/04/nasa-mission-to-map-mars-interior-will-launch-this-weekend\">Mars InSight lander</a>&nbsp;will take more than six months to travel the 300m miles to Mars where it will start geological excavations. It will dig deeper into Mars than ever before – about 5 metres – to record the planet’s temperature. It will also place a hi-tech seismometer on the surface of the planet to try to measure quakes</p><p><a href=\"https://www.theguardian.com/science/2018/may/05/nasa-launches-insight-spacecraft-mars\">• Nasa launches InSight spacecraft to explore the insides of Mars</a></p>",
+            "metadata": {
+              "tags": [
+                "science",
+                "NASA",
+                "Insight",
+                "Mars explorer",
+                "NASA's Insight lander blasts off to Mars",
+                "Insight spacecraft",
+                "california",
+                "NASA's  Mars InSight lander",
+                "mission to mars",
+                "geologic excavations on Mars",
+                "NASA's rocket on Mars",
+                "Nasa launches InSight spacecraft to explore the insides of Mars",
+                "US news",
+                "planets",
+                "space",
+                "space and technology",
+                "rockets",
+                "blast off"
+              ],
+              "categoryId": "25",
+              "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+              "pluto": {
+                "commissionId": "KP-30271",
+                "projectId": "KP-30273"
+              }
+            },
+            "posterImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1920_1080/1000.jpg",
+                  "dimensions": {
+                    "height": 563,
+                    "width": 1000
+                  },
+                  "size": 21796,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1920_1080/500.jpg",
+                  "dimensions": {
+                    "height": 281,
+                    "width": 500
+                  },
+                  "size": 10206,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1920_1080/140.jpg",
+                  "dimensions": {
+                    "height": 79,
+                    "width": 140
+                  },
+                  "size": 4541,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1920_1080/1920.jpg",
+                  "dimensions": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "size": 49357,
+                  "aspectRatio": "16:9"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1920_1080/master/1920.jpg",
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1920
+                },
+                "size": 351845,
+                "aspectRatio": "16:9"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/fd860d59ac572bb2367086b5ef285022bc54ec5b",
+              "source": "NASA"
+            },
+            "trailText": "<p>Nasa launches spacecraft from California on unprecedented geological mission to explore planet</p>",
+            "byline": [],
+            "commissioningDesks": [
+              "tracking/commissioningdesk/uk-video"
+            ],
+            "keywords": [
+              "science/mars",
+              "science/nasa",
+              "science/space",
+              "us-news/us-news",
+              "tone/news"
+            ],
+            "trailImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1800_1080/1000.jpg",
+                  "dimensions": {
+                    "height": 600,
+                    "width": 1000
+                  },
+                  "size": 22274,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1800_1080/500.jpg",
+                  "dimensions": {
+                    "height": 300,
+                    "width": 500
+                  },
+                  "size": 10514,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1800_1080/140.jpg",
+                  "dimensions": {
+                    "height": 84,
+                    "width": 140
+                  },
+                  "size": 4634,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1800_1080/1800.jpg",
+                  "dimensions": {
+                    "height": 1080,
+                    "width": 1800
+                  },
+                  "size": 47168,
+                  "aspectRatio": "5:3"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/fd860d59ac572bb2367086b5ef285022bc54ec5b/0_0_1800_1080/master/1800.jpg",
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1800
+                },
+                "size": 333757,
+                "aspectRatio": "5:3"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/fd860d59ac572bb2367086b5ef285022bc54ec5b",
+              "source": "NASA"
+            }
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525528103000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Jeremy",
+              "lastName": "Lennard (Casual)"
+            }
+          },
+          "created": {
+            "date": 1525521293000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Akshata",
+              "lastName": "Rao"
+            }
+          },
+          "published": {
+            "date": 1525528103000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Jeremy",
+              "lastName": "Lennard (Casual)"
+            }
+          },
+          "revision": 13
+        },
+        "title": "Nasa launches InSight lander on mission to Mars - video",
+        "commissioningDesks": []
+      },
+      {
+        "id": "8a64c0bc-b30b-45f8-858d-936b70603b36",
+        "atomType": "media",
+        "labels": [],
+        "defaultHtml": "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/rPKPI3LDZIo?showinfo=0&rel=0\"></iframe>",
+        "data": {
+          "media": {
+            "assets": [
+              {
+                "assetType": "video",
+                "version": 2,
+                "id": "rPKPI3LDZIo",
+                "platform": "youtube"
+              },
+              {
+                "assetType": "video",
+                "version": 1,
+                "id": "zug2q_XxRAU",
+                "platform": "youtube"
+              }
+            ],
+            "activeVersion": 2,
+            "title": "Why is the NRA so powerful? – video ",
+            "category": "news",
+            "duration": 167,
+            "source": "Getty/As credited",
+            "posterUrl": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_330_4000_2250/master/4000.jpg",
+            "description": "<p>The National Rifle Association (NRA) is famous for its influence on American politics. Under its executive vice-president, Wayne LaPierre, the group has resisted changes to gun legislation for more than four decades, despite\nmultiple mass shootings. Here's how the group keeps the status quo</p>",
+            "metadata": {
+              "tags": [
+                "world",
+                "National Rife Association",
+                "NRA",
+                "Wayne Lapierre",
+                "Donald Trump",
+                "guns",
+                "gun ownership",
+                "parkland shooting",
+                "florida shooting",
+                "sandy hook shooting",
+                "firearms",
+                "gun control",
+                "us",
+                "florida school shooting",
+                "politics",
+                "gun crime in america",
+                "guns in america",
+                "2nd amendment",
+                "mass shootings",
+                "wayne lapierre nra",
+                "nra speech",
+                "nra ad",
+                "nratv",
+                "nra advert",
+                "2018",
+                "marco rubio",
+                "donald trump",
+                "trump",
+                "nra 2018",
+                "hillary clinton",
+                "nra debate"
+              ],
+              "categoryId": "25",
+              "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+              "pluto": {
+                "commissionId": "KP-28702",
+                "projectId": "KP-29916"
+              }
+            },
+            "posterImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_330_4000_2250/2000.jpg",
+                  "dimensions": {
+                    "height": 1125,
+                    "width": 2000
+                  },
+                  "size": 341824,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_330_4000_2250/1000.jpg",
+                  "dimensions": {
+                    "height": 563,
+                    "width": 1000
+                  },
+                  "size": 111731,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_330_4000_2250/500.jpg",
+                  "dimensions": {
+                    "height": 281,
+                    "width": 500
+                  },
+                  "size": 40489,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_330_4000_2250/140.jpg",
+                  "dimensions": {
+                    "height": 79,
+                    "width": 140
+                  },
+                  "size": 8129,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_330_4000_2250/4000.jpg",
+                  "dimensions": {
+                    "height": 2250,
+                    "width": 4000
+                  },
+                  "size": 1403799,
+                  "aspectRatio": "16:9"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_330_4000_2250/master/4000.jpg",
+                "dimensions": {
+                  "height": 2250,
+                  "width": 4000
+                },
+                "size": 8714563,
+                "aspectRatio": "16:9"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/79f04a26838142192480f5f16d5628094ffb1d4a",
+              "source": "Bloomberg via Getty Images"
+            },
+            "trailText": "<p>The National Rifle Association is famous for its influence on American politics.&nbsp;</p>",
+            "byline": [
+              "profile/james-bullock"
+            ],
+            "commissioningDesks": [
+              "tracking/commissioningdesk/uk-video"
+            ],
+            "keywords": [
+              "us-news/nra",
+              "us-news/gun-control",
+              "us-news/trump-administration",
+              "us-news/republicans",
+              "world/gun-crime",
+              "us-news/us-news",
+              "tone/news"
+            ],
+            "trailImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_252_4000_2400/2000.jpg",
+                  "dimensions": {
+                    "height": 1200,
+                    "width": 2000
+                  },
+                  "size": 363042,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_252_4000_2400/1000.jpg",
+                  "dimensions": {
+                    "height": 600,
+                    "width": 1000
+                  },
+                  "size": 118103,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_252_4000_2400/500.jpg",
+                  "dimensions": {
+                    "height": 300,
+                    "width": 500
+                  },
+                  "size": 42578,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_252_4000_2400/140.jpg",
+                  "dimensions": {
+                    "height": 84,
+                    "width": 140
+                  },
+                  "size": 8480,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_252_4000_2400/4000.jpg",
+                  "dimensions": {
+                    "height": 2400,
+                    "width": 4000
+                  },
+                  "size": 1495931,
+                  "aspectRatio": "5:3"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/79f04a26838142192480f5f16d5628094ffb1d4a/0_252_4000_2400/master/4000.jpg",
+                "dimensions": {
+                  "height": 2400,
+                  "width": 4000
+                },
+                "size": 9227965,
+                "aspectRatio": "5:3"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/79f04a26838142192480f5f16d5628094ffb1d4a",
+              "source": "Bloomberg via Getty Images"
+            }
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525513417000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Akshata",
+              "lastName": "Rao"
+            }
+          },
+          "created": {
+            "date": 1521559873000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "James",
+              "lastName": "Bullock"
+            }
+          },
+          "published": {
+            "date": 1525513417000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Akshata",
+              "lastName": "Rao"
+            }
+          },
+          "revision": 42
+        },
+        "title": "Why is the NRA so powerful? – video ",
+        "commissioningDesks": []
+      },
+      {
+        "id": "078217ef-0c76-4a89-9009-804a62011d90",
+        "atomType": "media",
+        "labels": [],
+        "defaultHtml": "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/4q_83QjM8h4?showinfo=0&rel=0\"></iframe>",
+        "data": {
+          "media": {
+            "assets": [
+              {
+                "assetType": "video",
+                "version": 1,
+                "id": "4q_83QjM8h4",
+                "platform": "youtube"
+              }
+            ],
+            "activeVersion": 1,
+            "title": "The 'hostile environment' made me feel like an alien: Windrush victim – video ",
+            "category": "news",
+            "duration": 66,
+            "source": "The Guaridan",
+            "posterUrl": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/49_0_1710_962/master/1710.jpg",
+            "description": "<p>Paulette Wilson and her daughter Natalie Barnes speak about how the Home Office's policy affected them after Paulette, who moved to the UK from Jamaica in 1968 when she was 10 and has never left, was classed as an illegal immigrant, taken to the Yarl’s Wood removal centre and threatened with deportation&nbsp;</p><p><br></p>",
+            "metadata": {
+              "tags": [
+                "uk",
+                "windrush",
+                "paulette wilson",
+                "natalie barnes",
+                "windrush children",
+                "windrush citizen",
+                "guardian windrush",
+                "world",
+                "politics",
+                "jamaica",
+                "immigration",
+                "migration",
+                "uk foreign policy",
+                "commonwealth",
+                "home office",
+                "Yarl's Wood"
+              ],
+              "categoryId": "25",
+              "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+              "pluto": {
+                "commissionId": "KP-30926",
+                "projectId": "KP-30993"
+              }
+            },
+            "posterImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/49_0_1710_962/1000.jpg",
+                  "dimensions": {
+                    "height": 563,
+                    "width": 1000
+                  },
+                  "size": 47066,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/49_0_1710_962/500.jpg",
+                  "dimensions": {
+                    "height": 281,
+                    "width": 500
+                  },
+                  "size": 19173,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/49_0_1710_962/140.jpg",
+                  "dimensions": {
+                    "height": 79,
+                    "width": 140
+                  },
+                  "size": 5676,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/49_0_1710_962/1710.jpg",
+                  "dimensions": {
+                    "height": 962,
+                    "width": 1710
+                  },
+                  "size": 105286,
+                  "aspectRatio": "16:9"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/49_0_1710_962/master/1710.jpg",
+                "dimensions": {
+                  "height": 962,
+                  "width": 1710
+                },
+                "size": 1163629,
+                "aspectRatio": "16:9"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/a622e9fb715675341477c34b2062908566da0a84",
+              "source": "Guardian"
+            },
+            "trailText": "<p>Paulette Wilson and her daughter Natalie Barnes speak about how the Home Office's immigration policy affected them</p>",
+            "byline": [],
+            "commissioningDesks": [
+              "tracking/commissioningdesk/uk-video"
+            ],
+            "keywords": [
+              "uk-news/commonwealth-immigration",
+              "uk/immigration",
+              "uk/uk",
+              "world/migration",
+              "world/world",
+              "politics/foreignpolicy",
+              "world/jamaica",
+              "tone/news"
+            ],
+            "trailImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/117_0_1594_957/1000.jpg",
+                  "dimensions": {
+                    "height": 600,
+                    "width": 1000
+                  },
+                  "size": 48958,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/117_0_1594_957/500.jpg",
+                  "dimensions": {
+                    "height": 300,
+                    "width": 500
+                  },
+                  "size": 19947,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/117_0_1594_957/140.jpg",
+                  "dimensions": {
+                    "height": 84,
+                    "width": 140
+                  },
+                  "size": 5852,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/117_0_1594_957/1594.jpg",
+                  "dimensions": {
+                    "height": 957,
+                    "width": 1594
+                  },
+                  "size": 99071,
+                  "aspectRatio": "5:3"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/a622e9fb715675341477c34b2062908566da0a84/117_0_1594_957/master/1594.jpg",
+                "dimensions": {
+                  "height": 957,
+                  "width": 1594
+                },
+                "size": 1099569,
+                "aspectRatio": "5:3"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/a622e9fb715675341477c34b2062908566da0a84",
+              "source": "Guardian"
+            },
+            "optimisedForWeb": true
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525496447000,
+            "user": {
+              "email": "media-atom-scheduler-lambda"
+            }
+          },
+          "created": {
+            "date": 1525445090000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Gary",
+              "lastName": "Marshall"
+            }
+          },
+          "published": {
+            "date": 1525496447000,
+            "user": {
+              "email": "media-atom-scheduler-lambda"
+            }
+          },
+          "revision": 20
+        },
+        "title": "The 'hostile environment' made me feel like an alien: Windrush victim – video ",
+        "commissioningDesks": []
+      },
+      {
+        "id": "2f1560c4-9bd4-455c-8526-481510d42238",
+        "atomType": "media",
+        "labels": [],
+        "defaultHtml": "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/SZaB0gmTcac?showinfo=0&rel=0\"></iframe>",
+        "data": {
+          "media": {
+            "assets": [
+              {
+                "assetType": "video",
+                "version": 2,
+                "id": "SZaB0gmTcac",
+                "platform": "youtube"
+              },
+              {
+                "assetType": "video",
+                "version": 1,
+                "id": "-02wVxQ64CI",
+                "platform": "youtube"
+              }
+            ],
+            "activeVersion": 2,
+            "title": "Bending time: The hidden dimension of time-lapse photography – video",
+            "category": "feature",
+            "duration": 185,
+            "source": "The Guardian",
+            "posterUrl": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_725_5184_2916/master/5184.jpg",
+            "description": "<p>Guardian Australia heads to the picturesque foreshores of Sydney Harbour to discuss the art of time-lapse photography with <a href=\"https://www.youtube.com/user/MatthewVandeputte\">Matthew Vandeputte</a>, a Belgian-born photographer who has made a name for himself pushing the technique to its limits.</p><p>Using the Sydney Opera House and Harbour Bridge as subjects, Vandeputte talks through the process, saying it reveals a 'hidden dimension that we're living in, but not aware of'</p>",
+            "metadata": {
+              "tags": [
+                "technology",
+                "culture",
+                "Matthew Vandeputte",
+                "matjoez",
+                "timelapse",
+                "timelapse photography",
+                "photography",
+                "sydney opera house",
+                "sydney harbour bridge",
+                "sydney",
+                "vivid",
+                "how to",
+                "explainer"
+              ],
+              "categoryId": "26",
+              "channelId": "UCoWKwd06OC0Y0XpvAa8jfdw"
+            },
+            "posterImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_725_5184_2916/2000.jpg",
+                  "dimensions": {
+                    "height": 1125,
+                    "width": 2000
+                  },
+                  "size": 307180,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_725_5184_2916/1000.jpg",
+                  "dimensions": {
+                    "height": 563,
+                    "width": 1000
+                  },
+                  "size": 84526,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_725_5184_2916/500.jpg",
+                  "dimensions": {
+                    "height": 281,
+                    "width": 500
+                  },
+                  "size": 25895,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_725_5184_2916/140.jpg",
+                  "dimensions": {
+                    "height": 79,
+                    "width": 140
+                  },
+                  "size": 5781,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_725_5184_2916/5184.jpg",
+                  "dimensions": {
+                    "height": 2916,
+                    "width": 5184
+                  },
+                  "size": 2208942,
+                  "aspectRatio": "16:9"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_725_5184_2916/master/5184.jpg",
+                "dimensions": {
+                  "height": 2916,
+                  "width": 5184
+                },
+                "size": 14571938,
+                "aspectRatio": "16:9"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/3ae78c3e4b8b747657437519f7075e5ecf6796ba",
+              "source": "The Guardian"
+            },
+            "trailText": "<p>Guardian Australia heads to the picturesque foreshores of Sydney Harbour to discuss the art of time-lapse photography with Matthew Vandeputte</p>",
+            "byline": [
+              "profile/david-fanner",
+              "profile/carly-earl"
+            ],
+            "commissioningDesks": [
+              "tracking/commissioningdesk/australia-video"
+            ],
+            "keywords": [
+              "technology/photography",
+              "artanddesign/photography",
+              "culture/culture",
+              "australia-news/australia-news",
+              "culture/series/the-art-of-photography"
+            ],
+            "trailImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_545_5184_3110/2000.jpg",
+                  "dimensions": {
+                    "height": 1200,
+                    "width": 2000
+                  },
+                  "size": 315716,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_545_5184_3110/1000.jpg",
+                  "dimensions": {
+                    "height": 600,
+                    "width": 1000
+                  },
+                  "size": 86818,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_545_5184_3110/500.jpg",
+                  "dimensions": {
+                    "height": 300,
+                    "width": 500
+                  },
+                  "size": 26812,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_545_5184_3110/140.jpg",
+                  "dimensions": {
+                    "height": 84,
+                    "width": 140
+                  },
+                  "size": 5968,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_545_5184_3110/5184.jpg",
+                  "dimensions": {
+                    "height": 3110,
+                    "width": 5184
+                  },
+                  "size": 2305184,
+                  "aspectRatio": "5:3"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/3ae78c3e4b8b747657437519f7075e5ecf6796ba/0_545_5184_3110/master/5184.jpg",
+                "dimensions": {
+                  "height": 3110,
+                  "width": 5184
+                },
+                "size": 15056304,
+                "aspectRatio": "5:3"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/3ae78c3e4b8b747657437519f7075e5ecf6796ba",
+              "source": "The Guardian"
+            }
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525494698000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Alison",
+              "lastName": "Rourke"
+            }
+          },
+          "created": {
+            "date": 1523595194000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "David",
+              "lastName": "Fanner"
+            }
+          },
+          "published": {
+            "date": 1525494698000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Alison",
+              "lastName": "Rourke"
+            }
+          },
+          "revision": 16
+        },
+        "title": "Bending time: The hidden dimension of time-lapse photography – video",
+        "commissioningDesks": []
+      },
+      {
+        "id": "a2121078-1871-4164-abca-90d79cc2bb34",
+        "atomType": "media",
+        "labels": [],
+        "defaultHtml": "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/t_F2y_Nb9Q8?showinfo=0&rel=0\"></iframe>",
+        "data": {
+          "media": {
+            "assets": [
+              {
+                "assetType": "video",
+                "version": 1,
+                "id": "t_F2y_Nb9Q8",
+                "platform": "youtube"
+              }
+            ],
+            "activeVersion": 1,
+            "title": "Trump's NRA speech: Kanye West, North Korea and London's 'war zone' – video ",
+            "category": "news",
+            "duration": 201,
+            "source": "Reuters",
+            "posterUrl": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_27_2965_1667/master/2965.jpg",
+            "description": "<p>Donald Trump delivered a wideranging speech to the annual National Rifle Association meeting in Dallas on Friday. Urging Republicans to vote in the midterms, the president told the cheering crowd that their 'second amendment rights are under siege but they will never ever be under siege as long as I'm your president'&nbsp;</p><ul><li><a href=\"https://www.theguardian.com/us-news/2018/may/04/trump-nra-convention-dallas-gun-control\">Donald Trump brags of achievements and promises NRA: I'll defend gun rights</a><br></li></ul>",
+            "metadata": {
+              "tags": [
+                "NRA",
+                "NRA Trump",
+                "donald trump nra",
+                "gun control",
+                "us gun control",
+                "gun control trump",
+                "london knife crime",
+                "north korea",
+                "north korea nuclear war",
+                "nuclear war",
+                "second amendment rights",
+                "donald trump",
+                "donald trump speech",
+                "donald trump nra speech"
+              ],
+              "categoryId": "25",
+              "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+              "pluto": {
+                "commissionId": "KP-30926",
+                "projectId": "KP-31034"
+              }
+            },
+            "posterImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_27_2965_1667/2000.jpg",
+                  "dimensions": {
+                    "height": 1125,
+                    "width": 2000
+                  },
+                  "size": 225041,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_27_2965_1667/1000.jpg",
+                  "dimensions": {
+                    "height": 563,
+                    "width": 1000
+                  },
+                  "size": 55737,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_27_2965_1667/500.jpg",
+                  "dimensions": {
+                    "height": 281,
+                    "width": 500
+                  },
+                  "size": 19328,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_27_2965_1667/140.jpg",
+                  "dimensions": {
+                    "height": 79,
+                    "width": 140
+                  },
+                  "size": 5904,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_27_2965_1667/2965.jpg",
+                  "dimensions": {
+                    "height": 1667,
+                    "width": 2965
+                  },
+                  "size": 550802,
+                  "aspectRatio": "16:9"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_27_2965_1667/master/2965.jpg",
+                "dimensions": {
+                  "height": 1667,
+                  "width": 2965
+                },
+                "size": 4117040,
+                "aspectRatio": "16:9"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/0fc5439289635470fbc5fc633f9d7cd454fc0c51",
+              "source": "Getty Images"
+            },
+            "trailText": "<p>Donald Trump tells a cheering NRA crowd that their second amendment rights are under siege, issuing the rallying cry: 'but they will never ever be under siege as long as I'm your president'</p>",
+            "byline": [],
+            "commissioningDesks": [
+              "tracking/commissioningdesk/uk-video"
+            ],
+            "keywords": [
+              "us-news/nra",
+              "us-news/donaldtrump",
+              "us-news/us-news",
+              "us-news/gun-control"
+            ],
+            "trailImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_0_2965_1778/2000.jpg",
+                  "dimensions": {
+                    "height": 1200,
+                    "width": 2000
+                  },
+                  "size": 240852,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_0_2965_1778/1000.jpg",
+                  "dimensions": {
+                    "height": 600,
+                    "width": 1000
+                  },
+                  "size": 59488,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_0_2965_1778/500.jpg",
+                  "dimensions": {
+                    "height": 300,
+                    "width": 500
+                  },
+                  "size": 20445,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_0_2965_1778/140.jpg",
+                  "dimensions": {
+                    "height": 84,
+                    "width": 140
+                  },
+                  "size": 6172,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_0_2965_1778/2965.jpg",
+                  "dimensions": {
+                    "height": 1778,
+                    "width": 2965
+                  },
+                  "size": 649486,
+                  "aspectRatio": "5:3"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/0fc5439289635470fbc5fc633f9d7cd454fc0c51/0_0_2965_1778/master/2965.jpg",
+                "dimensions": {
+                  "height": 1778,
+                  "width": 2965
+                },
+                "size": 2719911,
+                "aspectRatio": "5:3"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/0fc5439289635470fbc5fc633f9d7cd454fc0c51",
+              "source": "Getty Images"
+            }
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525470645000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Paul",
+              "lastName": "Vaughan"
+            }
+          },
+          "created": {
+            "date": 1525466770000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Gary",
+              "lastName": "Marshall"
+            }
+          },
+          "published": {
+            "date": 1525470645000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Paul",
+              "lastName": "Vaughan"
+            }
+          },
+          "revision": 18
+        },
+        "title": "Trump's NRA speech: Kanye West, North Korea and London's 'war zone' – video ",
+        "commissioningDesks": []
+      },
+      {
+        "id": "7e068732-3dcd-4933-b343-be0326c33f56",
+        "atomType": "guide",
+        "labels": [],
+        "defaultHtml": "<div class=\"atom-Guide\"><p><strong>Status quo prevails on night of no real victors</strong></p><p><p>By early morning Labour had gained seats but failed to make the advances it had hoped for in London. The Conservatives lost seats but were relieved to cling on to key councils. Brandon Lewis, the Conservative party chairman, said his party had a “reasonable night, a good night”. Jeremy Corbyn celebrated seizing Plymouth council and said he was \"delighted\" by the result. One pollster estimated that a general election matching these results would see Labour with a similar number of seats to the 262 it scored in 2017, while the Tories would lose 12.</p></p><p><strong>Tories lose control of Trafford stronghold</strong></p><p><p>Surprise success for two Green candidates against Conservative incumbents helped Labour become the biggest party in the Manchester council, one of its biggest successes of the night. \"I’m absolutely ecstatic,” said Andrew Western, the leader of the Labour group on Trafford council. “This is far beyond our expectations.\"</p></p><p><strong>Labour's Barnet defeat blamed on antisemitism row </strong></p><p><p>Hoping for a 1.6% swing and one additional seat to win Barnet from no overall control, Labour instead saw the council move into the Conservative column. Party activists in the area - which has a significant Jewish population - blamed the antisemitism row that has engulfed the capital. Defeated Labour councillor Adam Langleben called for Jeremy Corbyn to apologise to Jewish activists, adding: \"We as Jewish Labour activists were told we were endorsing anti-semitism.\"</p></p><p><strong>Modest success for Lib Dems in remain areas</strong></p><p><p>The party celebrated as it took control of Richmond by gaining 22 seats and had some other good results. Ed Davey, the party’s home affairs spokesman, said: \"It’s building a hugely important platform for future victories.” But elsewhere Vince Cable’s party showed no signs of enjoying the sort of recovery that would see it turn into a strong force at Westminster.</p></p><p><strong>Catastrophic night for 'Black Death' Ukip</strong></p><p><p>Ukip's vote collapsed and by Friday morning it held just two seats, 44 down on four years ago. General secretary Paul Oakley tried to put a brave face on things by comparing the party to the Black Death. \"It's not all over at all,\" he told BBC Radio 4's Today programme. \"Think of the Black Death in the Middle Ages. It comes along and it causes disruption and then it goes dormant, and that's exactly what we are going to do. Our time isn't finished because Brexit is being betrayed.\" <b>Dan Sabbagh and Andrew Sparrow</b></p></p></div>",
+        "data": {
+          "guide": {
+            "guideImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/2000.jpg",
+                  "dimensions": {
+                    "height": 1200,
+                    "width": 2000
+                  },
+                  "size": 319117,
+                  "credit": "Photograph: Victoria Jones/PA",
+                  "source": "PA",
+                  "photographer": "Victoria Jones",
+                  "suppliersReference": "POLITICS_Election_032696.JPG"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/1000.jpg",
+                  "dimensions": {
+                    "height": 600,
+                    "width": 1000
+                  },
+                  "size": 99967,
+                  "credit": "Photograph: Victoria Jones/PA",
+                  "source": "PA",
+                  "photographer": "Victoria Jones",
+                  "suppliersReference": "POLITICS_Election_032696.JPG"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/500.jpg",
+                  "dimensions": {
+                    "height": 300,
+                    "width": 500
+                  },
+                  "size": 35485,
+                  "credit": "Photograph: Victoria Jones/PA",
+                  "source": "PA",
+                  "photographer": "Victoria Jones",
+                  "suppliersReference": "POLITICS_Election_032696.JPG"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/140.jpg",
+                  "dimensions": {
+                    "height": 84,
+                    "width": 140
+                  },
+                  "size": 7508,
+                  "credit": "Photograph: Victoria Jones/PA",
+                  "source": "PA",
+                  "photographer": "Victoria Jones",
+                  "suppliersReference": "POLITICS_Election_032696.JPG"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/3500.jpg",
+                  "dimensions": {
+                    "height": 2100,
+                    "width": 3500
+                  },
+                  "size": 972338,
+                  "credit": "Photograph: Victoria Jones/PA",
+                  "source": "PA",
+                  "photographer": "Victoria Jones",
+                  "suppliersReference": "POLITICS_Election_032696.JPG"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e/0_43_3500_2100/master/3500.jpg",
+                "dimensions": {
+                  "height": 2100,
+                  "width": 3500
+                },
+                "size": 6451527,
+                "credit": "Photograph: Victoria Jones/PA",
+                "source": "PA",
+                "photographer": "Victoria Jones",
+                "suppliersReference": "POLITICS_Election_032696.JPG"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/8c84c2b095ad9ebcbc49a6ef59f528c545afcc1e"
+            },
+            "items": [
+              {
+                "title": "Status quo prevails on night of no real victors",
+                "body": "<p>By early morning Labour had gained seats but failed to make the advances it had hoped for in London. The Conservatives lost seats but were relieved to cling on to key councils. Brandon Lewis, the Conservative party chairman, said his party had a “reasonable night, a good night”. Jeremy Corbyn celebrated seizing Plymouth council and said he was \"delighted\" by the result. One pollster estimated that a general election matching these results would see Labour with a similar number of seats to the 262 it scored in 2017, while the Tories would lose 12.</p>"
+              },
+              {
+                "title": "Tories lose control of Trafford stronghold",
+                "body": "<p>Surprise success for two Green candidates against Conservative incumbents helped Labour become the biggest party in the Manchester council, one of its biggest successes of the night. \"I’m absolutely ecstatic,” said Andrew Western, the leader of the Labour group on Trafford council. “This is far beyond our expectations.\"</p>"
+              },
+              {
+                "title": "Labour's Barnet defeat blamed on antisemitism row ",
+                "body": "<p>Hoping for a 1.6% swing and one additional seat to win Barnet from no overall control, Labour instead saw the council move into the Conservative column. Party activists in the area - which has a significant Jewish population - blamed the antisemitism row that has engulfed the capital. Defeated Labour councillor Adam Langleben called for Jeremy Corbyn to apologise to Jewish activists, adding: \"We as Jewish Labour activists were told we were endorsing anti-semitism.\"</p>"
+              },
+              {
+                "title": "Modest success for Lib Dems in remain areas",
+                "body": "<p>The party celebrated as it took control of Richmond by gaining 22 seats and had some other good results. Ed Davey, the party’s home affairs spokesman, said: \"It’s building a hugely important platform for future victories.” But elsewhere Vince Cable’s party showed no signs of enjoying the sort of recovery that would see it turn into a strong force at Westminster.</p>"
+              },
+              {
+                "title": "Catastrophic night for 'Black Death' Ukip",
+                "body": "<p>Ukip's vote collapsed and by Friday morning it held just two seats, 44 down on four years ago. General secretary Paul Oakley tried to put a brave face on things by comparing the party to the Black Death. \"It's not all over at all,\" he told BBC Radio 4's Today programme. \"Think of the Black Death in the Middle Ages. It comes along and it causes disruption and then it goes dormant, and that's exactly what we are going to do. Our time isn't finished because Brexit is being betrayed.\" <b>Dan Sabbagh and Andrew Sparrow</b></p>"
+              }
+            ]
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525456921000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Richard",
+              "lastName": "Preston"
+            }
+          },
+          "created": {
+            "date": 1525419242000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Archie",
+              "lastName": "Bland"
+            }
+          },
+          "published": {
+            "date": 1525456921000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Richard",
+              "lastName": "Preston"
+            }
+          },
+          "revision": 194
+        },
+        "title": "Local elections: the night at a glance",
+        "commissioningDesks": [
+          "tracking/commissioningdesk/uk-home-news"
+        ]
+      },
+      {
+        "id": "43c6ec38-f048-4446-a372-238b74d9e82b",
+        "atomType": "media",
+        "labels": [],
+        "defaultHtml": "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/NO2GtkXeEqc?showinfo=0&rel=0\"></iframe>",
+        "data": {
+          "media": {
+            "assets": [
+              {
+                "assetType": "video",
+                "version": 1,
+                "id": "NO2GtkXeEqc",
+                "platform": "youtube"
+              }
+            ],
+            "activeVersion": 1,
+            "title": "I knew Rangers was the right move for me, says Steven Gerrard – video",
+            "category": "news",
+            "duration": 68,
+            "source": "SNTV",
+            "posterUrl": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_196_4984_2804/master/4984.jpg",
+            "description": "<p>Steven Gerrard, the new Rangers manager, says he got a 'different feeling' in his stomach when he found out the Scottish side were interested. The former Liverpool midfielder has signed a four-year deal at Ibrox</p><p><a href=\"https://www.theguardian.com/football/2018/may/04/steven-gerrard-appointed-as-new-manager-of-rangers\">Steven Gerrard appointed as new Rangers manager: 'It was a no-brainer'</a></p>",
+            "metadata": {
+              "tags": [
+                "football",
+                "steven gerrard",
+                "rangers news",
+                "steven gerrard rangers",
+                "steven gerrard rangers manager",
+                "gerrard",
+                "guardian",
+                "gerrard rangers",
+                "rangers manager news",
+                "brendan rodgers salary",
+                "gerrard new manager rangers",
+                "gerrard liverpool",
+                "steven gerrard manager",
+                "steven gerrard rangers coach",
+                "gerrard scottish premiership",
+                "steven gerrard signs four year deal rangers",
+                "gerrard signs rangers manager",
+                "rangers sign gerrard",
+                "sport"
+              ],
+              "categoryId": "17",
+              "channelId": "UCwD9E_QNwFwrQC7OnPnrg2Q",
+              "pluto": {
+                "commissionId": "KP-30966",
+                "projectId": "KP-31008"
+              }
+            },
+            "posterImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_196_4984_2804/2000.jpg",
+                  "dimensions": {
+                    "height": 1125,
+                    "width": 2000
+                  },
+                  "size": 236386,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_196_4984_2804/1000.jpg",
+                  "dimensions": {
+                    "height": 563,
+                    "width": 1000
+                  },
+                  "size": 78958,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_196_4984_2804/500.jpg",
+                  "dimensions": {
+                    "height": 281,
+                    "width": 500
+                  },
+                  "size": 31029,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_196_4984_2804/140.jpg",
+                  "dimensions": {
+                    "height": 79,
+                    "width": 140
+                  },
+                  "size": 7717,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_196_4984_2804/4984.jpg",
+                  "dimensions": {
+                    "height": 2804,
+                    "width": 4984
+                  },
+                  "size": 1741430,
+                  "aspectRatio": "16:9"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_196_4984_2804/master/4984.jpg",
+                "dimensions": {
+                  "height": 2804,
+                  "width": 4984
+                },
+                "size": 11679873,
+                "aspectRatio": "16:9"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/b69755456f2755651cbce9f51cb70238dd587b83",
+              "source": "EPA"
+            },
+            "trailText": "<p>Steven Gerrard, the new Rangers manager, says he got a 'different feeling' in his stomach when he found out the Scottish side were interested. The former Liverpool midfielder has signed a four-year deal at Ibrox</p>",
+            "byline": [],
+            "commissioningDesks": [
+              "tracking/commissioningdesk/uk-video"
+            ],
+            "keywords": [
+              "football/rangers",
+              "football/steven-gerrard",
+              "football/scottish-premiership",
+              "football/football",
+              "sport/sport"
+            ],
+            "trailImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_149_4984_2991/2000.jpg",
+                  "dimensions": {
+                    "height": 1200,
+                    "width": 2000
+                  },
+                  "size": 245558,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_149_4984_2991/1000.jpg",
+                  "dimensions": {
+                    "height": 600,
+                    "width": 1000
+                  },
+                  "size": 81641,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_149_4984_2991/500.jpg",
+                  "dimensions": {
+                    "height": 300,
+                    "width": 500
+                  },
+                  "size": 32223,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_149_4984_2991/140.jpg",
+                  "dimensions": {
+                    "height": 84,
+                    "width": 140
+                  },
+                  "size": 7981,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_149_4984_2991/4984.jpg",
+                  "dimensions": {
+                    "height": 2991,
+                    "width": 4984
+                  },
+                  "size": 1834947,
+                  "aspectRatio": "5:3"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/b69755456f2755651cbce9f51cb70238dd587b83/0_149_4984_2991/master/4984.jpg",
+                "dimensions": {
+                  "height": 2991,
+                  "width": 4984
+                },
+                "size": 12425853,
+                "aspectRatio": "5:3"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/b69755456f2755651cbce9f51cb70238dd587b83",
+              "source": "EPA"
+            }
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525456408000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Niall",
+              "lastName": "McVeigh"
+            }
+          },
+          "created": {
+            "date": 1525454919000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Africa",
+              "lastName": "Rosaleny.Casual"
+            }
+          },
+          "published": {
+            "date": 1525456408000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Niall",
+              "lastName": "McVeigh"
+            }
+          },
+          "revision": 17
+        },
+        "title": "I knew Rangers was the right move for me, says Steven Gerrard – video",
+        "commissioningDesks": []
+      },
+      {
+        "id": "1a6e6471-b3e3-43d1-840f-c3cb9145aa0a",
+        "atomType": "guide",
+        "labels": [],
+        "defaultHtml": "<div class=\"atom-Guide\"><p><strong><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7fL0ipkizC4?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe></strong></p><p><p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7fL0ipkizC4?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;</p></p></div>",
+        "data": {
+          "guide": {
+            "items": [
+              {
+                "title": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7fL0ipkizC4?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+                "body": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7fL0ipkizC4?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+              }
+            ]
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525453200000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Kim",
+              "lastName": "Cortes"
+            }
+          },
+          "created": {
+            "date": 1525452912000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Kim",
+              "lastName": "Cortes"
+            }
+          },
+          "published": {
+            "date": 1525453200000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Kim",
+              "lastName": "Cortes"
+            }
+          },
+          "revision": 10
+        },
+        "title": "Test-video",
+        "commissioningDesks": []
+      },
+      {
+        "id": "99dbacf6-6097-48bc-9297-b8807b7dbed2",
+        "atomType": "quiz",
+        "labels": [],
+        "defaultHtml": "<div class=\"quiz\" data-questions-length=\"14\" data-title=\"Literary cities quiz\"><ol class=\"quiz__questions\"><li class=\"quiz__question question\" data-text=\"“With so many trees in the city, you could see the spring coming each day until a night of warm wind would bring it suddenly in one morning.&#34; Which city inspired this quote?\"><p class=\"question__text\">“With so many trees in the city, you could see the spring coming each day until a night of warm wind would bring it suddenly in one morning.&#34; Which city inspired this quote?</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Bristol\" data-correct=\"false\"><p class=\"answer__text\">Bristol</p></li><li class=\"question__answer answer\" data-text=\"Vancouver\" data-correct=\"false\"><p class=\"answer__text\">Vancouver</p></li><li class=\"question__answer answer\" data-text=\"Singapore\" data-correct=\"false\"><p class=\"answer__text\">Singapore</p></li><li class=\"question__answer answer\" data-text=\"Paris\" data-correct=\"true\"><p class=\"answer__text\">Paris</p></li></ol></li><li class=\"quiz__question question\" data-text=\"&#34;I love your criminal alleyways / Your dagger-like moon upon the hills,” wrote the Chilean poet Pablo Neruda. Which city was he describing?\"><img src=\"https://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/500.jpg\" alt=\"\" /><p class=\"question__text\">&#34;I love your criminal alleyways / Your dagger-like moon upon the hills,” wrote the Chilean poet Pablo Neruda. Which city was he describing?</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Valparaíso \" data-correct=\"true\"><p class=\"answer__text\">Valparaíso </p></li><li class=\"question__answer answer\" data-text=\"Bogotá\" data-correct=\"false\"><p class=\"answer__text\">Bogotá</p></li><li class=\"question__answer answer\" data-text=\"Sintra\" data-correct=\"false\"><p class=\"answer__text\">Sintra</p></li><li class=\"question__answer answer\" data-text=\"Medellín\" data-correct=\"false\"><p class=\"answer__text\">Medellín</p></li></ol></li><li class=\"quiz__question question\" data-text=\"On clear days, in which city can you see &#34;beyond some low houses and walls of tufa and patches of thick vegetation, a blue mountain with one low peak and one a little higher&#34;?\"><p class=\"question__text\">On clear days, in which city can you see &#34;beyond some low houses and walls of tufa and patches of thick vegetation, a blue mountain with one low peak and one a little higher&#34;?</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Rome\" data-correct=\"false\"><p class=\"answer__text\">Rome</p></li><li class=\"question__answer answer\" data-text=\"Naples\" data-correct=\"true\"><p class=\"answer__text\">Naples</p></li><li class=\"question__answer answer\" data-text=\"Athens\" data-correct=\"false\"><p class=\"answer__text\">Athens</p></li><li class=\"question__answer answer\" data-text=\"Palermo\" data-correct=\"false\"><p class=\"answer__text\">Palermo</p></li></ol></li><li class=\"quiz__question question\" data-text=\"It was &#34;once fashionable to say how dull it was&#34;, but now it&#39;s seen as &#34;New York without the garbage and muggings&#34;. Which North American city is being discussed?\n\"><p class=\"question__text\">It was &#34;once fashionable to say how dull it was&#34;, but now it&#39;s seen as &#34;New York without the garbage and muggings&#34;. Which North American city is being discussed?\n</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Chicago\" data-correct=\"false\"><p class=\"answer__text\">Chicago</p></li><li class=\"question__answer answer\" data-text=\"Toronto\" data-correct=\"true\"><p class=\"answer__text\">Toronto</p></li><li class=\"question__answer answer\" data-text=\"Vancouver\" data-correct=\"false\"><p class=\"answer__text\">Vancouver</p></li><li class=\"question__answer answer\" data-text=\"Seattle\" data-correct=\"false\"><p class=\"answer__text\">Seattle</p></li></ol></li><li class=\"quiz__question question\" data-text=\"&#34;For the city&#39;s more sensitive and attuned residents, these ruins are reminders that the present city is so poor and confused that it can never again dream of rising to the same heights of wealth, power and culture.&#34; Which historic is this?\"><img src=\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/500.jpg\" alt=\"The Parthenon in Athens.\" /><p class=\"question__text\">&#34;For the city&#39;s more sensitive and attuned residents, these ruins are reminders that the present city is so poor and confused that it can never again dream of rising to the same heights of wealth, power and culture.&#34; Which historic is this?</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Damascus\" data-correct=\"false\"><p class=\"answer__text\">Damascus</p></li><li class=\"question__answer answer\" data-text=\" Istanbul\" data-correct=\"true\"><p class=\"answer__text\"> Istanbul</p></li><li class=\"question__answer answer\" data-text=\"Athens\" data-correct=\"false\"><p class=\"answer__text\">Athens</p></li><li class=\"question__answer answer\" data-text=\"Rome\" data-correct=\"false\"><p class=\"answer__text\">Rome</p></li></ol></li><li class=\"quiz__question question\" data-text=\"Which city is the subject of this quote from a famous US playwright?  \n\n&#34;In this part of [the city] you are practically always just around the corner, or a few door down the street, from a tinny piano being played ...&#34;\"><p class=\"question__text\">Which city is the subject of this quote from a famous US playwright?  \n\n&#34;In this part of [the city] you are practically always just around the corner, or a few door down the street, from a tinny piano being played ...&#34;</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"San Francisco\" data-correct=\"false\"><p class=\"answer__text\">San Francisco</p></li><li class=\"question__answer answer\" data-text=\"New Orleans\" data-correct=\"true\"><p class=\"answer__text\">New Orleans</p></li><li class=\"question__answer answer\" data-text=\"New York City\" data-correct=\"false\"><p class=\"answer__text\">New York City</p></li><li class=\"question__answer answer\" data-text=\"Atlanta\" data-correct=\"false\"><p class=\"answer__text\">Atlanta</p></li></ol></li><li class=\"quiz__question question\" data-text=\"Which author described an area of London in the following way? &#34;Ungentrified, ungentrifiable. Boom and bust never came here. Here bust is permanent …&#34; \n\"><p class=\"question__text\">Which author described an area of London in the following way? &#34;Ungentrified, ungentrifiable. Boom and bust never came here. Here bust is permanent …&#34; \n</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Iain Sinclair\" data-correct=\"false\"><p class=\"answer__text\">Iain Sinclair</p></li><li class=\"question__answer answer\" data-text=\"George Orwell\" data-correct=\"false\"><p class=\"answer__text\">George Orwell</p></li><li class=\"question__answer answer\" data-text=\"Zadie Smith\" data-correct=\"true\"><p class=\"answer__text\">Zadie Smith</p></li><li class=\"question__answer answer\" data-text=\"Martin Amis\" data-correct=\"false\"><p class=\"answer__text\">Martin Amis</p></li></ol></li><li class=\"quiz__question question\" data-text=\"Which city is said to be &#34;always dual&#34;? &#34;Houses are alleys; car thieves are the people to help you when your car won&#39;t start; pollution simultaneously chokes you and makes you gasp at the beauty of unnatural sunset.&#34;\"><img src=\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/500.jpg\" alt=\"The Khan el-Khalili souk in Cairo. But is Egypt&#39;s capital always dual?\" /><p class=\"question__text\">Which city is said to be &#34;always dual&#34;? &#34;Houses are alleys; car thieves are the people to help you when your car won&#39;t start; pollution simultaneously chokes you and makes you gasp at the beauty of unnatural sunset.&#34;</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Karachi \" data-correct=\"true\"><p class=\"answer__text\">Karachi </p></li><li class=\"question__answer answer\" data-text=\"Lahore\" data-correct=\"false\"><p class=\"answer__text\">Lahore</p></li><li class=\"question__answer answer\" data-text=\"Islamabad\" data-correct=\"false\"><p class=\"answer__text\">Islamabad</p></li><li class=\"question__answer answer\" data-text=\"Cairo\" data-correct=\"false\"><p class=\"answer__text\">Cairo</p></li></ol></li><li class=\"quiz__question question\" data-text=\"&#34;The giant digital screens fastened to the sides of buildings fall silent as midnight approaches, but loudspeakers on storefronts keep pumping out exaggerated hip-hop bass lines. A large game centre crammed with young people; wild electronic sounds; a group of college students spilling out from a bar ... dark-suited men racing across diagonal crosswalks for the last trains to the suburbs ...&#34; \n\nWhich city is full of late-night energy?\"><p class=\"question__text\">&#34;The giant digital screens fastened to the sides of buildings fall silent as midnight approaches, but loudspeakers on storefronts keep pumping out exaggerated hip-hop bass lines. A large game centre crammed with young people; wild electronic sounds; a group of college students spilling out from a bar ... dark-suited men racing across diagonal crosswalks for the last trains to the suburbs ...&#34; \n\nWhich city is full of late-night energy?</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Las Vegas\" data-correct=\"false\"><p class=\"answer__text\">Las Vegas</p></li><li class=\"question__answer answer\" data-text=\"New York City\" data-correct=\"false\"><p class=\"answer__text\">New York City</p></li><li class=\"question__answer answer\" data-text=\"Tokyo\" data-correct=\"true\"><p class=\"answer__text\">Tokyo</p></li><li class=\"question__answer answer\" data-text=\"Berlin\" data-correct=\"false\"><p class=\"answer__text\">Berlin</p></li></ol></li><li class=\"quiz__question question\" data-text=\"Which city is being described here? \n&#34;At first [the city] assaulted her; the sun-dazed haste, the yellow buses full of squashed limbs, the sweating hawkers racing after cars, the advertisements on hulking billboards ...”\n\"><p class=\"question__text\">Which city is being described here? \n&#34;At first [the city] assaulted her; the sun-dazed haste, the yellow buses full of squashed limbs, the sweating hawkers racing after cars, the advertisements on hulking billboards ...”\n</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Baltimore\" data-correct=\"false\"><p class=\"answer__text\">Baltimore</p></li><li class=\"question__answer answer\" data-text=\"New Delhi\" data-correct=\"false\"><p class=\"answer__text\">New Delhi</p></li><li class=\"question__answer answer\" data-text=\"London\" data-correct=\"false\"><p class=\"answer__text\">London</p></li><li class=\"question__answer answer\" data-text=\"Lagos\" data-correct=\"true\"><p class=\"answer__text\">Lagos</p></li></ol></li><li class=\"quiz__question question\" data-text=\"Which war-torn city is this? \n&#34;... the shell-blasted schools, the squatters living in roofless buildings, the beggars, the mud, the fickle electricity, but it&#39;s like describing music. He cannot bring it to life. [The city&#39;s] vivid, arresting details – the bodybuilding gym amid the rubble, for instance, a painting of Schwarzenegger on the window ...&#34; \n\"><p class=\"question__text\">Which war-torn city is this? \n&#34;... the shell-blasted schools, the squatters living in roofless buildings, the beggars, the mud, the fickle electricity, but it&#39;s like describing music. He cannot bring it to life. [The city&#39;s] vivid, arresting details – the bodybuilding gym amid the rubble, for instance, a painting of Schwarzenegger on the window ...&#34; \n</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Aleppo\" data-correct=\"false\"><p class=\"answer__text\">Aleppo</p></li><li class=\"question__answer answer\" data-text=\"Mosul\" data-correct=\"false\"><p class=\"answer__text\">Mosul</p></li><li class=\"question__answer answer\" data-text=\"Gaza\" data-correct=\"false\"><p class=\"answer__text\">Gaza</p></li><li class=\"question__answer answer\" data-text=\"Kabul \" data-correct=\"true\"><p class=\"answer__text\">Kabul </p></li></ol></li><li class=\"quiz__question question\" data-text=\"&#34;This is a city of half-crazy people ... there are few places where you&#39;ll find so many gloomy, harsh and strange influences on the soul of a man ...&#34; \nA 19th-century Russian literary giant is less than complimentary about which city?\"><img src=\"https://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/500.jpg\" alt=\"\" /><p class=\"question__text\">&#34;This is a city of half-crazy people ... there are few places where you&#39;ll find so many gloomy, harsh and strange influences on the soul of a man ...&#34; \nA 19th-century Russian literary giant is less than complimentary about which city?</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Moscow\" data-correct=\"false\"><p class=\"answer__text\">Moscow</p></li><li class=\"question__answer answer\" data-text=\"St Petersburg \" data-correct=\"true\"><p class=\"answer__text\">St Petersburg </p></li><li class=\"question__answer answer\" data-text=\"Vienna\" data-correct=\"false\"><p class=\"answer__text\">Vienna</p></li><li class=\"question__answer answer\" data-text=\"Kiev\" data-correct=\"false\"><p class=\"answer__text\">Kiev</p></li></ol></li><li class=\"quiz__question question\" data-text=\"Where are the characters of an Irvine Welsh novel when they &#34;go fir a pish in the auld Central Station at the Fit ay the Walk, now a barren, desolate hangar, which is soon tae be demolished and replaced by a supermarket and swimming centre&#34;?\"><p class=\"question__text\">Where are the characters of an Irvine Welsh novel when they &#34;go fir a pish in the auld Central Station at the Fit ay the Walk, now a barren, desolate hangar, which is soon tae be demolished and replaced by a supermarket and swimming centre&#34;?</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Glasgow\" data-correct=\"false\"><p class=\"answer__text\">Glasgow</p></li><li class=\"question__answer answer\" data-text=\"Leith\" data-correct=\"true\"><p class=\"answer__text\">Leith</p></li><li class=\"question__answer answer\" data-text=\"Aberdeen\" data-correct=\"false\"><p class=\"answer__text\">Aberdeen</p></li><li class=\"question__answer answer\" data-text=\"Dundee\" data-correct=\"false\"><p class=\"answer__text\">Dundee</p></li></ol></li><li class=\"quiz__question question\" data-text=\"Which city is this poem about? \n\n&#34;We make brilliant music. We make brilliant bands /\n\nWe make goals that make souls leap from seats in the stands /\n\nAnd we make things from steel and we make things from cotton /\n\nAnd we make people laugh, take the mick summat rotten.&#34;\"><p class=\"question__text\">Which city is this poem about? \n\n&#34;We make brilliant music. We make brilliant bands /\n\nWe make goals that make souls leap from seats in the stands /\n\nAnd we make things from steel and we make things from cotton /\n\nAnd we make people laugh, take the mick summat rotten.&#34;</p><ol class=\"question__answers\" type=\"A\" data-answers-length=\"4\"><li class=\"question__answer answer\" data-text=\"Manchester\" data-correct=\"true\"><p class=\"answer__text\">Manchester</p></li><li class=\"question__answer answer\" data-text=\"Newcastle\" data-correct=\"false\"><p class=\"answer__text\">Newcastle</p></li><li class=\"question__answer answer\" data-text=\"Liverpool\" data-correct=\"false\"><p class=\"answer__text\">Liverpool</p></li><li class=\"question__answer answer\" data-text=\"Sheffield\" data-correct=\"false\"><p class=\"answer__text\">Sheffield</p></li></ol></li></ol><h2 class=\"quiz__correct-answers-title\">Solutions</h2><p class=\"quiz__correct-answers\">1:D - From Ernest Hemingway&#39;s memoir A Moveable Feast. Hemingway&#39;s travels are deeply embedded in his most famous works – from The Sun Also Rises, set in Pamplona, to The Old Man and the Sea, written in Havana – but he is most associated with the French capital, 2:A - Taken from Neruda&#39;s Canto General. The poet had a house in Valparaíso, named La Sebastiana, and wrote that if &#34;we walk up and down all the stairs of Valparaíso we’ll have walked all round the world&#34;, 3:B - The passage is taken from My Brilliant Friend, the first of Elena Ferrante&#39;s Neapolitan novels. The city itself is almost like a character in her books, 4:B - From the 1988 novel Cat&#39;s Eye by Margaret Atwood, who is based in Toronto. The influential Canadian writer has more than 40 books of poetry, fiction and essays to her name, 5:B - The passage is from Istanbul: Memories and the City, a memoir by the Turkish Nobel-winner Orhan Pamuk, 6:B - Here, Tennessee Williams sets the scene for his 1947 play A Streetcar Named Desire, 7:C - The passage is about Kilburn, from Zadie Smith&#39;s 2012 novel NW, which traces the lives of four characters who grew up in the same part of north-west London, 8:A - Kamila Shamsie&#39;s Kartography is set in the 70s and 80s in Pakistan&#39;s largest city, and follows the story of two inseparable children. Shamsie was raised in Karachi and now lives in London, 9:C - Haruki Murakami&#39;s 2004 novel After Dark is set in Tokyo&#39;s nocturnal downtown entertainment district, Shinjuku, 10:D - Chimamanda Ngozi Adichie&#39;s 2013 novel Americanah is the story of a young Nigerian woman who goes to university in the United States. The author was born in Enugu, a city in south-eastern Nigera, 11:D - From And the Mountains Echoed, a 2013 novel by the Afghan-American author Khaled Hosseini, 12:B - Fyodor Dostoevsky&#39;s philosophical novel was originally published in 1866, 13:B - Welsh’s Trainspotting was first published in 1993. It follows a group of friends and heroin users in the 1980s living in Leith, a deprived district in the north of Edinburgh on the cusp of regeneration, 14:A - From This Is the Place, by local poet Tony Walsh (AKA Longfella). He performed the poem, dedicated to the city, at the vigil for the victims of the Manchester Arena attack in May 2017</p><h3 class=\"quiz__scores-title\">Scores</h3><ol class=\"quiz__scores\" data-result-groups-length=\"15\"><li class=\"quiz__score score\" data-title=\"Excellent\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"13\"><p class=\"score__min-score\">13 and above.</p><p class=\"score__title\">Excellent</p></li><li class=\"quiz__score score\" data-title=\"Excellent!\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"14\"><p class=\"score__min-score\">14 and above.</p><p class=\"score__title\">Excellent!</p></li><li class=\"quiz__score score\" data-title=\"Well done\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"12\"><p class=\"score__min-score\">12 and above.</p><p class=\"score__title\">Well done</p></li><li class=\"quiz__score score\" data-title=\"Well done\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"11\"><p class=\"score__min-score\">11 and above.</p><p class=\"score__title\">Well done</p></li><li class=\"quiz__score score\" data-title=\"Well done\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"10\"><p class=\"score__min-score\">10 and above.</p><p class=\"score__title\">Well done</p></li><li class=\"quiz__score score\" data-title=\"Well done\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"9\"><p class=\"score__min-score\">9 and above.</p><p class=\"score__title\">Well done</p></li><li class=\"quiz__score score\" data-title=\"OK\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"8\"><p class=\"score__min-score\">8 and above.</p><p class=\"score__title\">OK</p></li><li class=\"quiz__score score\" data-title=\"OK\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"7\"><p class=\"score__min-score\">7 and above.</p><p class=\"score__title\">OK</p></li><li class=\"quiz__score score\" data-title=\"Not great\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"6\"><p class=\"score__min-score\">6 and above.</p><p class=\"score__title\">Not great</p></li><li class=\"quiz__score score\" data-title=\"Poor\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"5\"><p class=\"score__min-score\">5 and above.</p><p class=\"score__title\">Poor</p></li><li class=\"quiz__score score\" data-title=\"Poor\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"4\"><p class=\"score__min-score\">4 and above.</p><p class=\"score__title\">Poor</p></li><li class=\"quiz__score score\" data-title=\"Hmmm\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"3\"><p class=\"score__min-score\">3 and above.</p><p class=\"score__title\">Hmmm</p></li><li class=\"quiz__score score\" data-title=\"Hmmm\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"2\"><p class=\"score__min-score\">2 and above.</p><p class=\"score__title\">Hmmm</p></li><li class=\"quiz__score score\" data-title=\"Oh dear\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"1\"><p class=\"score__min-score\">1 and above.</p><p class=\"score__title\">Oh dear</p></li><li class=\"quiz__score score\" data-title=\"Oh dear\" data-share=\"I got _/_ in &lt;quiz title&gt;\" data-min-score=\"0\"><p class=\"score__min-score\">0 and above.</p><p class=\"score__title\">Oh dear</p></li></ol></div>\n",
+        "data": {
+          "quiz": {
+            "id": "99dbacf6-6097-48bc-9297-b8807b7dbed2",
+            "title": "Literary cities quiz",
+            "revealAtEnd": false,
+            "published": true,
+            "quizType": "knowledge",
+            "defaultColumns": 1,
+            "content": {
+              "questions": [
+                {
+                  "questionText": "“With so many trees in the city, you could see the spring coming each day until a night of warm wind would bring it suddenly in one morning.\" Which city inspired this quote?",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "Bristol",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "d5ebff2e-08e3-44df-a415-d4d0700b27e4",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Vancouver",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "243e3454-dfa7-452e-998f-0c0d8b15dbba",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Singapore",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "6ccf9403-2679-4b06-8ccd-98e8844292ca",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Paris",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "From Ernest Hemingway's memoir A Moveable Feast. Hemingway's travels are deeply embedded in his most famous works – from The Sun Also Rises, set in Pamplona, to The Old Man and the Sea, written in Havana – but he is most associated with the French capital",
+                      "id": "7d87d99e-8504-4a93-990c-1c250a257ec2",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "44cc5f4a-d411-46a0-81e3-27c73b06e7b4"
+                },
+                {
+                  "questionText": "\"I love your criminal alleyways / Your dagger-like moon upon the hills,” wrote the Chilean poet Pablo Neruda. Which city was he describing?",
+                  "assets": [
+                    {
+                      "type": "image",
+                      "data": "{\"elementType\":\"image\",\"fields\":{\"caption\":\"\",\"photograper\":\"Baldomero Pestana\",\"altText\":\"Pablo Neruda\",\"source\":\"Instituto Cervantes\",\"copyright\":\"alfredo bongianni\",\"imageType\":\"Photograph\",\"displayCredit\":\"true\",\"mediaId\":\"1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee\",\"mediaApiUri\":\"https://api.media.gutools.co.uk/images/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee\"},\"assets\":[{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/2000.jpg\",\"secureUrl\":\"https://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/2000.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":2000,\"height\":1200,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/1000.jpg\",\"secureUrl\":\"https://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/1000.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":1000,\"height\":600,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/500.jpg\",\"secureUrl\":\"https://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/500.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":500,\"height\":300,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/140.jpg\",\"secureUrl\":\"https://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/140.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":140,\"height\":84,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/2500.jpg\",\"secureUrl\":\"https://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/2500.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":2500,\"height\":1500,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/master/2500.jpg\",\"secureUrl\":\"https://media.guim.co.uk/1a1fa7e8d6fb5a41943119bc42ae0c9001a2baee/0_338_2500_1500/master/2500.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":2500,\"height\":1500,\"isMaster\":true}}]}"
+                    }
+                  ],
+                  "answers": [
+                    {
+                      "answerText": "Valparaíso ",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "Taken from Neruda's Canto General. The poet had a house in Valparaíso, named La Sebastiana, and wrote that if \"we walk up and down all the stairs of Valparaíso we’ll have walked all round the world\"",
+                      "id": "4cd5238e-a1f1-4c0b-9697-a71352427f74",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Bogotá",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "9ba12e5c-3d50-40f7-8ec1-189bc0176432",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Sintra",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "314ca9a6-1d52-46e4-a439-8d7781a8778b",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Medellín",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "7c884338-ccd9-4865-b76d-148bbb49dfdc",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "0a8de966-eb85-47b5-8a9a-0ae549d07052"
+                },
+                {
+                  "questionText": "On clear days, in which city can you see \"beyond some low houses and walls of tufa and patches of thick vegetation, a blue mountain with one low peak and one a little higher\"?",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "Rome",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "95bc32b5-cbc9-44c9-a25b-80d435926271",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Naples",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "The passage is taken from My Brilliant Friend, the first of Elena Ferrante's Neapolitan novels. The city itself is almost like a character in her books",
+                      "id": "7999ef48-84fa-4c92-989d-93ba48d79720",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Athens",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "8012b091-d455-42f1-8852-926a01fb09f4",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Palermo",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "3280562a-8d74-4150-9664-f8b17525a1f5",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "c3d191d6-10aa-4abe-9ade-c80f34abb152"
+                },
+                {
+                  "questionText": "It was \"once fashionable to say how dull it was\", but now it's seen as \"New York without the garbage and muggings\". Which North American city is being discussed?\n",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "Chicago",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "83537775-f099-4bf0-91a6-b3d27126a0f7",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Toronto",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "From the 1988 novel Cat's Eye by Margaret Atwood, who is based in Toronto. The influential Canadian writer has more than 40 books of poetry, fiction and essays to her name",
+                      "id": "d60afddc-bfbc-4639-bafb-14aa04bc44a0",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Vancouver",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "9330426c-df84-4a30-b283-29da747e9076",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Seattle",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "d116113c-6284-4ac0-bd6a-45a353fc8604",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "3f3f35c0-f161-4b6b-a2a1-43ddbaf2bd8f"
+                },
+                {
+                  "questionText": "\"For the city's more sensitive and attuned residents, these ruins are reminders that the present city is so poor and confused that it can never again dream of rising to the same heights of wealth, power and culture.\" Which historic is this?",
+                  "assets": [
+                    {
+                      "type": "image",
+                      "data": "{\"elementType\":\"image\",\"fields\":{\"caption\":\"The Parthenon in Athens.\",\"altText\":\"\",\"source\":\"Alamy Stock Photo\",\"copyright\":\"Credit: Anna Berkut / Alamy Stock Photo\",\"suppliersReference\":\"D6TFRJ\",\"imageType\":\"Photograph\",\"displayCredit\":\"true\",\"mediaId\":\"76448a4953235b8cf8e63c24331326dcac2f852e\",\"mediaApiUri\":\"https://api.media.gutools.co.uk/images/76448a4953235b8cf8e63c24331326dcac2f852e\"},\"assets\":[{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/2000.jpg\",\"secureUrl\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/2000.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":2000,\"height\":1200,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/1000.jpg\",\"secureUrl\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/1000.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":1000,\"height\":600,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/500.jpg\",\"secureUrl\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/500.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":500,\"height\":300,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/140.jpg\",\"secureUrl\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/140.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":140,\"height\":84,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/3888.jpg\",\"secureUrl\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/3888.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":3888,\"height\":2333,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/master/3888.jpg\",\"secureUrl\":\"https://media.guim.co.uk/76448a4953235b8cf8e63c24331326dcac2f852e/0_259_3888_2333/master/3888.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":3888,\"height\":2333,\"isMaster\":true}}]}"
+                    }
+                  ],
+                  "answers": [
+                    {
+                      "answerText": "Damascus",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "1ab5f056-bdbc-42ff-8d54-12891f13d936",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": " Istanbul",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "The passage is from Istanbul: Memories and the City, a memoir by the Turkish Nobel-winner Orhan Pamuk",
+                      "id": "f60cbe6a-78b7-4279-9a78-af72aaeff273",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Athens",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "6e92f163-e6e0-402e-874c-4da852a67ee0",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Rome",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "345c1113-a542-4f7d-88dc-947ffdf64f7c",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "aea267c6-5613-4737-bcd4-e77f4a61e26e"
+                },
+                {
+                  "questionText": "Which city is the subject of this quote from a famous US playwright?  \n\n\"In this part of [the city] you are practically always just around the corner, or a few door down the street, from a tinny piano being played ...\"",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "San Francisco",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "d14230b0-2160-4e85-beec-a3cbdd3af04a",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "New Orleans",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "Here, Tennessee Williams sets the scene for his 1947 play A Streetcar Named Desire",
+                      "id": "2111421a-d6e0-4f87-b2b8-3375f3ce7894",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "New York City",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "65e4a5b8-f074-42b0-bf85-9ad00fa0f65b",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Atlanta",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "08260915-5d21-40eb-b2be-5cb00b0eb0a5",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "5d4d8bcf-e2e5-402b-83a8-5701a05d31da"
+                },
+                {
+                  "questionText": "Which author described an area of London in the following way? \"Ungentrified, ungentrifiable. Boom and bust never came here. Here bust is permanent …\" \n",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "Iain Sinclair",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "da8a69b2-8ca7-4d33-9339-5185e32e345b",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "George Orwell",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "d2d8509b-1fa8-4e70-a070-947ebb662fa7",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Zadie Smith",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "The passage is about Kilburn, from Zadie Smith's 2012 novel NW, which traces the lives of four characters who grew up in the same part of north-west London",
+                      "id": "98bce9e6-3e46-4957-aab0-d8c0c8e51e58",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Martin Amis",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "cc2956ff-4143-43e7-9457-57d206e8d73f",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "98bb75c9-f011-41f4-8a2e-30fc14d0ebe2"
+                },
+                {
+                  "questionText": "Which city is said to be \"always dual\"? \"Houses are alleys; car thieves are the people to help you when your car won't start; pollution simultaneously chokes you and makes you gasp at the beauty of unnatural sunset.\"",
+                  "assets": [
+                    {
+                      "type": "image",
+                      "data": "{\"elementType\":\"image\",\"fields\":{\"caption\":\"The Khan el-Khalili souk in Cairo. But is Egypt's capital always dual?\",\"altText\":\"\",\"source\":\"Alamy\",\"copyright\":\"© Juergen Ritterbach / Alamy Stock Photo\",\"suppliersReference\":\"BT2HYB\",\"imageType\":\"Photograph\",\"displayCredit\":\"true\",\"mediaId\":\"e5f7792bf35bfa209f382f56cfa3a9d376c4d458\",\"mediaApiUri\":\"https://api.media.gutools.co.uk/images/e5f7792bf35bfa209f382f56cfa3a9d376c4d458\"},\"assets\":[{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/2000.jpg\",\"secureUrl\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/2000.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":2000,\"height\":1200,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/1000.jpg\",\"secureUrl\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/1000.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":1000,\"height\":600,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/500.jpg\",\"secureUrl\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/500.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":500,\"height\":300,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/140.jpg\",\"secureUrl\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/140.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":140,\"height\":84,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/6048.jpg\",\"secureUrl\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/6048.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":6048,\"height\":3629,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/master/6048.jpg\",\"secureUrl\":\"https://media.guim.co.uk/e5f7792bf35bfa209f382f56cfa3a9d376c4d458/0_403_6048_3629/master/6048.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":6048,\"height\":3629,\"isMaster\":true}}]}"
+                    }
+                  ],
+                  "answers": [
+                    {
+                      "answerText": "Karachi ",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "Kamila Shamsie's Kartography is set in the 70s and 80s in Pakistan's largest city, and follows the story of two inseparable children. Shamsie was raised in Karachi and now lives in London",
+                      "id": "f8da9630-5bb1-46d5-8f78-97f5e8876669",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Lahore",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "a5cbf174-57ea-4091-a4f5-2f7f0f2d3ccf",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Islamabad",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "4445fc32-3dd5-4b5d-a2b9-6efee59ae336",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Cairo",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "eda1d197-806c-4802-8ae0-86740e38129b",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "ffcf7f93-6592-43dd-a7fb-9563ac63c5e9"
+                },
+                {
+                  "questionText": "\"The giant digital screens fastened to the sides of buildings fall silent as midnight approaches, but loudspeakers on storefronts keep pumping out exaggerated hip-hop bass lines. A large game centre crammed with young people; wild electronic sounds; a group of college students spilling out from a bar ... dark-suited men racing across diagonal crosswalks for the last trains to the suburbs ...\" \n\nWhich city is full of late-night energy?",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "Las Vegas",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "5703c074-1bf6-49fa-b8a7-d0063aaa8505",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "New York City",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "8899bc61-eb11-4ffb-bb80-5a025b19edfb",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Tokyo",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "Haruki Murakami's 2004 novel After Dark is set in Tokyo's nocturnal downtown entertainment district, Shinjuku",
+                      "id": "84d7ced7-9158-4f17-8eda-e29aff10741b",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Berlin",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "106c519f-0ba6-466c-86b7-9caa1f589289",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "aaf2cc3e-6b94-4e83-ad0f-9c6fd2687ad3"
+                },
+                {
+                  "questionText": "Which city is being described here? \n\"At first [the city] assaulted her; the sun-dazed haste, the yellow buses full of squashed limbs, the sweating hawkers racing after cars, the advertisements on hulking billboards ...”\n",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "Baltimore",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "4c363fd6-dbf8-48f0-a076-a94dde0d1912",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "New Delhi",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "b347bd99-4b36-49f2-bfcc-1935ce61b184",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "London",
+                      "assets": [],
+                      "weight": 0,
+                      "revealText": "",
+                      "id": "b888a912-ef2d-4c58-b579-031ec216eb9e",
+                      "bucket": []
+                    },
+                    {
+                      "answerText": "Lagos",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "Chimamanda Ngozi Adichie's 2013 novel Americanah is the story of a young Nigerian woman who goes to university in the United States. The author was born in Enugu, a city in south-eastern Nigera",
+                      "id": "80a5532f-968d-42b8-b235-584c535258b8",
+                      "bucket": []
+                    }
+                  ],
+                  "id": "c5e0cbf6-16c4-49db-b9f5-560ab1f04d67"
+                },
+                {
+                  "questionText": "Which war-torn city is this? \n\"... the shell-blasted schools, the squatters living in roofless buildings, the beggars, the mud, the fickle electricity, but it's like describing music. He cannot bring it to life. [The city's] vivid, arresting details – the bodybuilding gym amid the rubble, for instance, a painting of Schwarzenegger on the window ...\" \n",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "Aleppo",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "3c33af70-3617-459d-82f0-580c66631efe"
+                    },
+                    {
+                      "answerText": "Mosul",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "6c5fcdf5-fa3b-4208-9c76-69e5e4ae6fce"
+                    },
+                    {
+                      "answerText": "Gaza",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "57c836f9-0300-420b-93bf-f458f1709de7"
+                    },
+                    {
+                      "answerText": "Kabul ",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "From And the Mountains Echoed, a 2013 novel by the Afghan-American author Khaled Hosseini",
+                      "id": "951c6944-2a4e-4dca-b05d-ab874e16d916"
+                    }
+                  ],
+                  "id": "fc35d0dd-6192-4b84-9624-57e28af1bfa6"
+                },
+                {
+                  "questionText": "\"This is a city of half-crazy people ... there are few places where you'll find so many gloomy, harsh and strange influences on the soul of a man ...\" \nA 19th-century Russian literary giant is less than complimentary about which city?",
+                  "assets": [
+                    {
+                      "type": "image",
+                      "data": "{\"elementType\":\"image\",\"fields\":{\"caption\":\"\",\"photograper\":\"Heritage Images\",\"altText\":\"Illustration for the novel Crime and Punishment by F. Dostoevsky, 1874. Artist: Klodt, Mikhail Petrovich, Baron (1835-1914)\",\"source\":\"Getty Images\",\"copyright\":\"Fine Art Images / Heritage Images\",\"suppliersReference\":\"2598489\",\"imageType\":\"Photograph\",\"displayCredit\":\"true\",\"mediaId\":\"4f34226164558937d4dcf8b7fe81a6864f0cf9f0\",\"mediaApiUri\":\"https://api.media.gutools.co.uk/images/4f34226164558937d4dcf8b7fe81a6864f0cf9f0\",\"picdarUrn\":\"GD*54440006\"},\"assets\":[{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/2000.jpg\",\"secureUrl\":\"https://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/2000.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":2000,\"height\":1200,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/1000.jpg\",\"secureUrl\":\"https://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/1000.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":1000,\"height\":600,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/500.jpg\",\"secureUrl\":\"https://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/500.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":500,\"height\":300,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/140.jpg\",\"secureUrl\":\"https://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/140.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":140,\"height\":84,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/3554.jpg\",\"secureUrl\":\"https://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/3554.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":3554,\"height\":2132,\"isMaster\":false}},{\"assetType\":\"image\",\"url\":\"http://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/master/3554.jpg\",\"secureUrl\":\"https://media.guim.co.uk/4f34226164558937d4dcf8b7fe81a6864f0cf9f0/44_1176_3554_2132/master/3554.jpg\",\"mimeType\":\"image/jpeg\",\"fields\":{\"width\":3554,\"height\":2132,\"isMaster\":true}}]}"
+                    }
+                  ],
+                  "answers": [
+                    {
+                      "answerText": "Moscow",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "dd91059f-3c96-418c-90e7-8b34be0313bd"
+                    },
+                    {
+                      "answerText": "St Petersburg ",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "Fyodor Dostoevsky's philosophical novel was originally published in 1866",
+                      "id": "c9736d0b-d09a-4859-856b-c2361511c7d4"
+                    },
+                    {
+                      "answerText": "Vienna",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "241f03d0-5a44-447a-a6d4-c80693cccbc6"
+                    },
+                    {
+                      "answerText": "Kiev",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "d183c993-c582-4aad-9318-20e86e8a6f6b"
+                    }
+                  ],
+                  "id": "7249d19f-9a64-4805-a743-0fead8d91cac"
+                },
+                {
+                  "questionText": "Where are the characters of an Irvine Welsh novel when they \"go fir a pish in the auld Central Station at the Fit ay the Walk, now a barren, desolate hangar, which is soon tae be demolished and replaced by a supermarket and swimming centre\"?",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "Glasgow",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "1990357a-b18e-422c-848d-1180ce113272"
+                    },
+                    {
+                      "answerText": "Leith",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "Welsh’s Trainspotting was first published in 1993. It follows a group of friends and heroin users in the 1980s living in Leith, a deprived district in the north of Edinburgh on the cusp of regeneration",
+                      "id": "053f2c93-9a28-49d4-8ce5-2ca52594c03e"
+                    },
+                    {
+                      "answerText": "Aberdeen",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "6aeaa19b-0ec7-4a8f-a474-076c3205c694"
+                    },
+                    {
+                      "answerText": "Dundee",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "b71de2f9-e893-4ccb-9531-82ff7fc45cf5"
+                    }
+                  ],
+                  "id": "b38b4376-ced9-4cab-9940-12dd9a4e993e"
+                },
+                {
+                  "questionText": "Which city is this poem about? \n\n\"We make brilliant music. We make brilliant bands /\n\nWe make goals that make souls leap from seats in the stands /\n\nAnd we make things from steel and we make things from cotton /\n\nAnd we make people laugh, take the mick summat rotten.\"",
+                  "assets": [],
+                  "answers": [
+                    {
+                      "answerText": "Manchester",
+                      "assets": [],
+                      "weight": 1,
+                      "revealText": "From This Is the Place, by local poet Tony Walsh (AKA Longfella). He performed the poem, dedicated to the city, at the vigil for the victims of the Manchester Arena attack in May 2017",
+                      "id": "dd192ed9-51bb-465a-9b69-5e6031f9b8af"
+                    },
+                    {
+                      "answerText": "Newcastle",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "dd6fcdea-2af3-4282-89d0-2a64d35bec11"
+                    },
+                    {
+                      "answerText": "Liverpool",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "7d9c2c82-54e2-4b51-aaa2-98e4a6f303fc"
+                    },
+                    {
+                      "answerText": "Sheffield",
+                      "assets": [],
+                      "weight": 0,
+                      "id": "e965a23c-c24a-42e9-8ab5-5f309c635d6b"
+                    }
+                  ],
+                  "id": "f6ee3312-8c93-45bf-8673-870ad83185c5"
+                }
+              ],
+              "resultGroups": {
+                "groups": [
+                  {
+                    "title": "Oh dear",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 0,
+                    "id": "9807c020-6bf2-4f20-bf83-767e83dc8154"
+                  },
+                  {
+                    "title": "Oh dear",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 1,
+                    "id": "b81dae3e-a7d3-45db-80a2-f0d6a9bddce4"
+                  },
+                  {
+                    "title": "Hmmm",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 2,
+                    "id": "6a800c49-fab7-459d-9698-4369549bffb6"
+                  },
+                  {
+                    "title": "Hmmm",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 3,
+                    "id": "f6f8c759-f9e5-422e-9261-eb5609b94127"
+                  },
+                  {
+                    "title": "Poor",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 4,
+                    "id": "5addc913-8283-49a3-ac1b-ea6621fa2b5c"
+                  },
+                  {
+                    "title": "Poor",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 5,
+                    "id": "74070303-3fb4-41d5-9e0e-a30069e7128c"
+                  },
+                  {
+                    "title": "Not great",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 6,
+                    "id": "4dcd4290-a7a0-4de8-ab1d-65b88dd2b786"
+                  },
+                  {
+                    "title": "OK",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 7,
+                    "id": "03b3eb8e-4a69-4331-9c0f-618561e1d903"
+                  },
+                  {
+                    "title": "OK",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 8,
+                    "id": "69c5fe25-71fb-4807-b149-8bcefea230f5"
+                  },
+                  {
+                    "title": "Well done",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 9,
+                    "id": "a9457419-8ba2-4235-ab5e-e173de9be3fb"
+                  },
+                  {
+                    "title": "Well done",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 10,
+                    "id": "3e90cb4c-bb37-41f1-b39d-e89c042ccb66"
+                  },
+                  {
+                    "title": "Well done",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 11,
+                    "id": "79dfc7bb-c8a1-48b4-a3c1-8d790f1c1e7a"
+                  },
+                  {
+                    "title": "Well done",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 12,
+                    "id": "c3f7da10-fe29-44f4-9277-3e6b3f9f4b3a"
+                  },
+                  {
+                    "title": "Excellent!",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 14,
+                    "id": "7b6e2fb5-0781-4839-9b58-543b5ba84e66"
+                  },
+                  {
+                    "title": "Excellent",
+                    "share": "I got _/_ in <quiz title>",
+                    "minScore": 13,
+                    "id": "835fb135-596c-45d9-9f94-f1435ba06022"
+                  }
+                ]
+              },
+              "resultBuckets": {
+                "buckets": []
+              }
+            }
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525452415000,
+            "user": {
+              "email": "emailme@domain.com"
+            }
+          },
+          "created": {
+            "date": 1525173232000,
+            "user": {
+              "email": "emailme@domain.com"
+            }
+          },
+          "revision": 7566
+        },
+        "commissioningDesks": []
+      },
+      {
+        "id": "f2ca026c-1ded-4d9c-8758-eb558ad431c4",
+        "atomType": "media",
+        "labels": [],
+        "defaultHtml": "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/0ufELYcwIaE?showinfo=0&rel=0\"></iframe>",
+        "data": {
+          "media": {
+            "assets": [
+              {
+                "assetType": "video",
+                "version": 1,
+                "id": "0ufELYcwIaE",
+                "platform": "youtube"
+              }
+            ],
+            "activeVersion": 1,
+            "title": "Trump on Giuliani: 'He'll get his facts straight' on Stormy Daniels – video",
+            "category": "news",
+            "duration": 56,
+            "source": "AP",
+            "posterUrl": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1687/master/3000.jpg",
+            "description": "<p>The US president tells reporters that the former New York mayor, who joined the president’s legal team last month, will 'get his facts straight' eventually. Giuliani said earlier this week that Trump had personally reimbursed his lawyer Michael Cohen for a $130,000 payment made to Stormy Daniels&nbsp;</p><ul><li><a href=\"https://www.theguardian.com/us-news/2018/may/04/donald-trump-latest-news-stormy-daniels-rudy-guiliani\">Donald Trump says Giuliani yet to get his 'facts straight' on Stormy Daniels</a></li></ul>",
+            "metadata": {
+              "tags": [
+                "trump",
+                "donald trump",
+                "rudy giuliani",
+                "rudy guiliani donald trump",
+                "stromy daniels",
+                "donald trump stormy daniels",
+                "trump stormy daniels",
+                "world"
+              ],
+              "categoryId": "25",
+              "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+              "pluto": {
+                "commissionId": "KP-30926",
+                "projectId": "KP-31034"
+              }
+            },
+            "posterImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1687/2000.jpg",
+                  "dimensions": {
+                    "height": 1125,
+                    "width": 2000
+                  },
+                  "size": 150351,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1687/1000.jpg",
+                  "dimensions": {
+                    "height": 563,
+                    "width": 1000
+                  },
+                  "size": 46284,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1687/500.jpg",
+                  "dimensions": {
+                    "height": 281,
+                    "width": 500
+                  },
+                  "size": 17060,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1687/140.jpg",
+                  "dimensions": {
+                    "height": 79,
+                    "width": 140
+                  },
+                  "size": 5642,
+                  "aspectRatio": "16:9"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1687/3000.jpg",
+                  "dimensions": {
+                    "height": 1687,
+                    "width": 3000
+                  },
+                  "size": 333634,
+                  "aspectRatio": "16:9"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1687/master/3000.jpg",
+                "dimensions": {
+                  "height": 1687,
+                  "width": 3000
+                },
+                "size": 1134318,
+                "aspectRatio": "16:9"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/743e763a4c00367283038bccba00757d0258d807",
+              "source": "Getty Images"
+            },
+            "trailText": "<p>Donald Trump says his lawyer Rudy Giuliani will get his facts straight on the Stormy Daniels scandal&nbsp;</p>",
+            "byline": [],
+            "commissioningDesks": [
+              "tracking/commissioningdesk/uk-video"
+            ],
+            "keywords": [
+              "us-news/donaldtrump",
+              "us-news/stormy-daniels",
+              "us-news/rudygiuliani",
+              "us-news/us-news",
+              "tone/news",
+              "world/world"
+            ],
+            "trailImage": {
+              "assets": [
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1799/2000.jpg",
+                  "dimensions": {
+                    "height": 1200,
+                    "width": 2000
+                  },
+                  "size": 161910,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1799/1000.jpg",
+                  "dimensions": {
+                    "height": 600,
+                    "width": 1000
+                  },
+                  "size": 49456,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1799/500.jpg",
+                  "dimensions": {
+                    "height": 300,
+                    "width": 500
+                  },
+                  "size": 18143,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1799/140.jpg",
+                  "dimensions": {
+                    "height": 84,
+                    "width": 140
+                  },
+                  "size": 5898,
+                  "aspectRatio": "5:3"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1799/3000.jpg",
+                  "dimensions": {
+                    "height": 1799,
+                    "width": 3000
+                  },
+                  "size": 360058,
+                  "aspectRatio": "5:3"
+                }
+              ],
+              "master": {
+                "mimeType": "image/jpeg",
+                "file": "https://media.guim.co.uk/743e763a4c00367283038bccba00757d0258d807/0_0_3000_1799/master/3000.jpg",
+                "dimensions": {
+                  "height": 1799,
+                  "width": 3000
+                },
+                "size": 1229470,
+                "aspectRatio": "5:3"
+              },
+              "mediaId": "https://api.media.gutools.co.uk/images/743e763a4c00367283038bccba00757d0258d807",
+              "source": "Getty Images"
+            },
+            "optimisedForWeb": true
+          }
+        },
+        "contentChangeDetails": {
+          "lastModified": {
+            "date": 1525450971000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Jeremy",
+              "lastName": "Lennard (Casual)"
+            }
+          },
+          "created": {
+            "date": 1525448736000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Gary",
+              "lastName": "Marshall"
+            }
+          },
+          "published": {
+            "date": 1525450971000,
+            "user": {
+              "email": "emailme@domain.com",
+              "firstName": "Jeremy",
+              "lastName": "Lennard (Casual)"
+            }
+          },
+          "revision": 17
+        },
+        "title": "Trump on Giuliani: 'He'll get his facts straight' on Stormy Daniels – video",
+        "commissioningDesks": []
+      }
+    ]
+  }
+}
